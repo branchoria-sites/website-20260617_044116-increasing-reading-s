@@ -437,7 +437,7 @@ The goal is not to eliminate every regression. Even expert readers make backward
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Helps readers build word knowledge that reduces hesitation on unfamiliar terms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ The goal is not to eliminate every regression. Even expert readers make backward
           <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
         </h4>
         <p class="fr-book-author">By Maryanne Wolf</p>
-        
+
         <p class="fr-book-desc">Explains cognitive processes involved in word recognition and reading fluency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,16 +465,16 @@ The goal is not to eliminate every regression. Even expert readers make backward
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vocabulary builder workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
+          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
         </h4>
-        <p class="fr-book-author">By Chris Lele</p>
-        
-        <p class="fr-book-desc">Targets the underlying vocabulary gaps that often trigger rereading and regressions.</p>
+        <p class="fr-book-author">By Stanislas Dehaene</p>
+
+        <p class="fr-book-desc">Provides scientific context for why difficult words slow processing and increase rereading.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -374,7 +374,7 @@ Once the text becomes complex, lengthy or important enough to require reflection
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
         </h4>
         <p class="fr-book-author">By Tony Buzan</p>
-        
+
         <p class="fr-book-desc">Directly addresses speed-reading techniques and provides context for RSVP-style reading claims and limitations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Once the text becomes complex, lengthy or important enough to require reflection
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
         </h4>
         <p class="fr-book-author">By Abby Marks-Beale</p>
-        
+
         <p class="fr-book-desc">Covers efficient reading strategies and comprehension trade-offs relevant to small-screen reading discussions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Once the text becomes complex, lengthy or important enough to require reflection
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Explores reading-speed methods that help readers understand where RSVP fits within the wider speed-reading landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Once the text becomes complex, lengthy or important enough to require reflection
           <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
         </h4>
         <p class="fr-book-author">By Maryanne Wolf</p>
-        
+
         <p class="fr-book-desc">Examines how screen-based reading affects comprehension, making it highly relevant to tiny-screen and RSVP reading contexts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

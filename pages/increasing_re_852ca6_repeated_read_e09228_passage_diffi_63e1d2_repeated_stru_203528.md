@@ -431,7 +431,7 @@ When those signs appear, changing the passage is often more productive than dema
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Explains how to avoid ineffective rereading and build successful fluency practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ When those signs appear, changing the passage is often more productive than dema
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
         </h4>
         <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
-        
+
         <p class="fr-book-desc">Provides alternative texts and approaches when readers struggle.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ When those signs appear, changing the passage is often more productive than dema
           <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overcoming Dyslexia">Overcoming Dyslexia</a>
         </h4>
         <p class="fr-book-author">By Sally E. Shaywitz</p>
-        
+
         <p class="fr-book-desc">Helps explain persistent reading difficulty and intervention needs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -482,7 +482,7 @@ When those signs appear, changing the passage is often more productive than dema
           <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
         </h4>
         <p class="fr-book-author">By Jennifer Serravallo</p>
-        
+
         <p class="fr-book-desc">Offers replacement strategies when a passage proves too difficult.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

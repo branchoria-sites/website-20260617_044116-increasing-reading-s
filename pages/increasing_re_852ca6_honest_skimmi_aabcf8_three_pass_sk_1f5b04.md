@@ -515,7 +515,7 @@ By the end, the reader should know not only what the author concluded, but also 
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Shows how repeated purposeful passes improve understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -532,7 +532,7 @@ By the end, the reader should know not only what the author concluded, but also 
           <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Take Smart Notes">How to Take Smart Notes</a>
         </h4>
         <p class="fr-book-author">By Sönke Ahrens</p>
-        
+
         <p class="fr-book-desc">Pairs well with staged reading and synthesis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -549,7 +549,7 @@ By the end, the reader should know not only what the author concluded, but also 
           <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a paper">How to read a paper</a>
         </h4>
         <p class="fr-book-author">By Trisha Greenhalgh</p>
-        
+
         <p class="fr-book-desc">Encourages layered evaluation of evidence and claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

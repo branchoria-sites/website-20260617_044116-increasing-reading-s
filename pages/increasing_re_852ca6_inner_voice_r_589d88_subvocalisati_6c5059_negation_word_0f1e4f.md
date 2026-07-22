@@ -404,7 +404,7 @@ For this reason, successful speed increases usually come not from ignoring these
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Shows how small cognitive shortcuts can produce interpretation errors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For this reason, successful speed increases usually come not from ignoring these
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, José C. Vales</p>
-        
+
         <p class="fr-book-desc">Explains how readers process meaning, syntax, and logical relationships.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ For this reason, successful speed increases usually come not from ignoring these
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
         </h4>
         <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
         <p class="fr-book-desc">Highlights how wording and framing alter interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ For this reason, successful speed increases usually come not from ignoring these
           <a href="https://www.amazon.com/s?k=How+We+Read+Now+Naomi+S.+Baron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We Read Now">How We Read Now</a>
         </h4>
         <p class="fr-book-author">By Naomi S. Baron</p>
-        
+
         <p class="fr-book-desc">Connects reading habits to comprehension accuracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+We+Read+Now+Naomi+S.+Baron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

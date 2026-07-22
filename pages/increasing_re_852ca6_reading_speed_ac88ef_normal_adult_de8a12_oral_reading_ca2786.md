@@ -416,7 +416,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
         </h4>
         <p class="fr-book-author">By Tony Buzan</p>
-        
+
         <p class="fr-book-desc">Explains reading rate limits, subvocalization, and differences between reading modes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
           <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
         </h4>
         <p class="fr-book-author">By Stanley D. Frank</p>
-        
+
         <p class="fr-book-desc">Provides context for claims about reading speed versus speech-related limitations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Covers mechanisms that influence reading pace and comprehension.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -471,7 +471,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Supports turning reading into organized understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
           <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
         </h4>
         <p class="fr-book-author">By Barbara Minto</p>
-        
+
         <p class="fr-book-desc">Teaches hierarchical outlining and idea organization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -505,7 +505,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
           <a href="https://www.amazon.com/s?k=Ultralearning+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
         </h4>
         <p class="fr-book-author">By Scott H. Young</p>
-        
+
         <p class="fr-book-desc">Encourages strategic extraction of information before deep study.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ultralearning+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

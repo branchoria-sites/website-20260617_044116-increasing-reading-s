@@ -472,7 +472,7 @@ The key principle remains the same: a words-per-minute score should only count i
 <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
 </h4>
 <p class="fr-book-author">By Stanislas Dehaene</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -489,7 +489,7 @@ The key principle remains the same: a words-per-minute score should only count i
 <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
 </h4>
 <p class="fr-book-author">By Tony Buzan</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -506,7 +506,7 @@ The key principle remains the same: a words-per-minute score should only count i
 <a href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete idiot&#x27;s guide to speed reading">The complete idiot&#x27;s guide to speed reading</a>
 </h4>
 <p class="fr-book-author">By Abby Marks-Beale</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Nonfiction, Reference, Speed reading.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

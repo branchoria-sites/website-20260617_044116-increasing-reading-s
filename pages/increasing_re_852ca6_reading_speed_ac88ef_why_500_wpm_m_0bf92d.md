@@ -440,7 +440,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
         </h4>
         <p class="fr-book-author">By Tony Buzan</p>
-        
+
         <p class="fr-book-desc">Directly addresses high reading-speed claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
         </h4>
         <p class="fr-book-author">By Abby Marks-Beale</p>
-        
+
         <p class="fr-book-desc">Provides realistic approaches to increasing reading rate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Offers practical training without relying solely on extreme speed claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

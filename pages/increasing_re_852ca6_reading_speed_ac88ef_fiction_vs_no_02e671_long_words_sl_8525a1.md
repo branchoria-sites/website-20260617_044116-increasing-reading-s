@@ -382,7 +382,7 @@ Because long words are more likely to attract fixations, resist skipping, and re
           <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
         </h4>
         <p class="fr-book-author">By Maryanne Wolf</p>
-        
+
         <p class="fr-book-desc">Explains how the brain processes written language.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Because long words are more likely to attract fixations, resist skipping, and re
           <a href="https://www.amazon.com/s?k=Words+on+the+Move+John+McWhorter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words on the Move">Words on the Move</a>
         </h4>
         <p class="fr-book-author">By John McWhorter</p>
-        
+
         <p class="fr-book-desc">Provides context on word formation and complexity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Words+on+the+Move+John+McWhorter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ Because long words are more likely to attract fixations, resist skipping, and re
           <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
         </h4>
         <p class="fr-book-author">By Maryanne Wolf</p>
-        
+
         <p class="fr-book-desc">Discusses reading depth and processing demands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ Because long words are more likely to attract fixations, resist skipping, and re
           <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Covers vocabulary, comprehension, and reading mechanics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

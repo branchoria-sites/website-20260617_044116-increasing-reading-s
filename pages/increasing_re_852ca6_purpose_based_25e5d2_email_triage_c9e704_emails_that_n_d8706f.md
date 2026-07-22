@@ -474,7 +474,7 @@ If the answer to any of these questions is yes, the email is usually too risky t
           <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
         </h4>
         <p class="fr-book-author">By David Allen</p>
-        
+
         <p class="fr-book-desc">Directly supports identifying high-consequence communications that require deliberate processing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -491,7 +491,7 @@ If the answer to any of these questions is yes, the email is usually too risky t
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
         </h4>
         <p class="fr-book-author">By Cal Newport</p>
-        
+
         <p class="fr-book-desc">Encourages intentional attention on high-impact information and decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -508,7 +508,7 @@ If the answer to any of these questions is yes, the email is usually too risky t
           <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
         </h4>
         <p class="fr-book-author">By Greg McKeown</p>
-        
+
         <p class="fr-book-desc">Supports separating low-impact messages from communications with significant consequences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -525,7 +525,7 @@ If the answer to any of these questions is yes, the email is usually too risky t
           <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effective Executive">The Effective Executive</a>
         </h4>
         <p class="fr-book-author">By Peter F Drucker</p>
-        
+
         <p class="fr-book-desc">Emphasizes consequence-based prioritization similar to deciding which emails are too risky to skim.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -476,7 +476,7 @@ Qualifier words are often those words. They decide whether an action is mandator
           <a href="https://www.amazon.com/s?k=Garner%27s+modern+English+usage+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Garner&#x27;s modern English usage">Garner&#x27;s modern English usage</a>
         </h4>
         <p class="fr-book-author">By Bryan A. Garner</p>
-        
+
         <p class="fr-book-desc">Explains how small wording changes affect meaning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Garner%27s+modern+English+usage+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ Qualifier words are often those words. They decide whether an action is mandator
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, José C. Vales</p>
-        
+
         <p class="fr-book-desc">Helps readers notice precision and ambiguity in language.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -510,7 +510,7 @@ Qualifier words are often those words. They decide whether an action is mandator
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
         </h4>
         <p class="fr-book-author">By Kenneth A. Adams</p>
-        
+
         <p class="fr-book-desc">Directly examines words such as may, shall, must, and exceptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

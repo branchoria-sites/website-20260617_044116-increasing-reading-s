@@ -423,13 +423,30 @@ As readers accumulate familiarity with common study designs, standard controls, 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
+        </h4>
+        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
+
+        <p class="fr-book-desc">Explains research design, evidence, methods, and how experts interpret research papers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read a paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/459980-M.jpg" alt="Cover for How to read a paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a paper">How to read a paper</a>
         </h4>
         <p class="fr-book-author">By Trisha Greenhalgh</p>
-        
+
         <p class="fr-book-desc">Directly teaches readers how to decode study design, methods, statistics, and research quality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +463,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
           <a href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Social Inquiry">Designing Social Inquiry</a>
         </h4>
         <p class="fr-book-author">By Gary King, Robert O. Keohane et al.</p>
-        
+
         <p class="fr-book-desc">Builds understanding of research logic, inference, and study design that make methods sections easier to interpret.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +480,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
           <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Design">Research Design</a>
         </h4>
         <p class="fr-book-author">By John W. Creswell, J. David Creswell</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the methodological choices that methods sections compress into shorthand.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,26 +489,9 @@ As readers accumulate familiarity with common study designs, standard controls, 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
-        </h4>
-        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
-        
-        <p class="fr-book-desc">Explains research design, evidence, methods, and how experts interpret research papers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+a+paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read a paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Social+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Social Inquiry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Research+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Research Design</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+to+Writing%2C+Editing%2C+and+Publishing%29+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Research (Chicago to Writing, Editing, and Publishing) books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+a+paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read a paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Social+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Social Inquiry</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

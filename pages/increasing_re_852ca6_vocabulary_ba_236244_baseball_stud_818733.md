@@ -404,7 +404,7 @@ Viewed in that light, the study remains a valuable reminder that one of the most
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Explains how prior knowledge supports understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Viewed in that light, the study remains a valuable reminder that one of the most
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Shows how stored knowledge improves performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ Viewed in that light, the study remains a valuable reminder that one of the most
           <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
         </h4>
         <p class="fr-book-author">By Natalie Wexler</p>
-        
+
         <p class="fr-book-desc">Directly addresses knowledge-rich comprehension research.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -361,7 +361,7 @@ For readers trying to increase reading speed, that balance is what makes short p
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Discusses repeated reading with short passages.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ For readers trying to increase reading speed, that balance is what makes short p
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
         </h4>
         <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
-        
+
         <p class="fr-book-desc">Provides numerous short-text fluency activities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For readers trying to increase reading speed, that balance is what makes short p
           <a href="https://www.amazon.com/s?k=What+Really+Matters+for+Struggling+Readers+Richard+L.+Allington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Really Matters for Struggling Readers">What Really Matters for Struggling Readers</a>
         </h4>
         <p class="fr-book-author">By Richard L. Allington</p>
-        
+
         <p class="fr-book-desc">Supports evidence-based fluency practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=What+Really+Matters+for+Struggling+Readers+Richard+L.+Allington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For readers trying to increase reading speed, that balance is what makes short p
           <a href="https://www.amazon.com/s?k=Developing+readers+in+the+academic+disciplines+Doug+Buehl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Developing readers in the academic disciplines">Developing readers in the academic disciplines</a>
         </h4>
         <p class="fr-book-author">By Doug Buehl</p>
-        
+
         <p class="fr-book-desc">Addresses reading practice and text selection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Developing+readers+in+the+academic+disciplines+Doug+Buehl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

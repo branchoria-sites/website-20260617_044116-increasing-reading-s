@@ -476,7 +476,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that princip
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
         </h4>
         <p class="fr-book-author">By Cal Newport</p>
-        
+
         <p class="fr-book-desc">Directly addresses sustained concentration and recovering from distraction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that princip
           <a href="https://www.amazon.com/s?k=Hyperfocus+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperfocus">Hyperfocus</a>
         </h4>
         <p class="fr-book-author">By Chris Bailey</p>
-        
+
         <p class="fr-book-desc">Specifically targets attention lapses and concentration recovery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hyperfocus+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -504,16 +504,16 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that princip
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mSiOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
         </h4>
-        <p class="fr-book-author">By James Clear</p>
-        
-        <p class="fr-book-desc">Useful for reducing distraction habits that disrupt reading.</p>
+        <p class="fr-book-author">By Daniel T. Willingham</p>
+
+        <p class="fr-book-desc">Explains attention and comprehension during reading.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

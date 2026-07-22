@@ -435,7 +435,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this distinc
           <a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brain Lock">Brain Lock</a>
         </h4>
         <p class="fr-book-author">By Jeffrey M. Schwartz</p>
-        
+
         <p class="fr-book-desc">Directly addresses compulsive checking loops similar to anxious rereading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this distinc
           <a href="https://www.amazon.com/s?k=The+Imp+of+the+Mind+Lee+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Imp of the Mind">The Imp of the Mind</a>
         </h4>
         <p class="fr-book-author">By Lee Baer</p>
-        
+
         <p class="fr-book-desc">Explains uncertainty-driven checking behaviors that mirror rereading loops.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Imp+of+the+Mind+Lee+Baer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this distinc
           <a href="https://www.amazon.com/s?k=The+Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Mind">The Reading Mind</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Helps readers understand comprehension monitoring and reading confidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

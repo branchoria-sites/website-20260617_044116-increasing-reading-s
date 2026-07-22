@@ -416,7 +416,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, José C. Vales</p>
-        
+
         <p class="fr-book-desc">Explains sentence structure, ambiguity, and why some constructions confuse readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
-        
+
         <p class="fr-book-desc">Covers how humans process language and interpret sentence structure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
           <a href="https://www.amazon.com/s?k=Because+Internet+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
         </h4>
         <p class="fr-book-author">By Gretchen McCulloch</p>
-        
+
         <p class="fr-book-desc">Explores language interpretation and how readers derive meaning from text.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Because+Internet+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

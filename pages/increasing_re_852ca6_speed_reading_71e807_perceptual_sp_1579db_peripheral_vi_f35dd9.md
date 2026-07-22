@@ -361,7 +361,7 @@ The practical implication is straightforward: improving reading speed is more li
           <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
         </h4>
         <p class="fr-book-author">By Stanislas Dehaene</p>
-        
+
         <p class="fr-book-desc">Explains visual processing limits relevant to peripheral vision.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ The practical implication is straightforward: improving reading speed is more li
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
         </h4>
         <p class="fr-book-author">By Tony Buzan</p>
-        
+
         <p class="fr-book-desc">Represents common speed-reading claims about wider visual intake.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The practical implication is straightforward: improving reading speed is more li
           <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
         </h4>
         <p class="fr-book-author">By Maryanne Wolf</p>
-        
+
         <p class="fr-book-desc">Provides context on the biological foundations of reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The practical implication is straightforward: improving reading speed is more li
           <a href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vision and Art">Vision and Art</a>
         </h4>
         <p class="fr-book-author">By Margaret S. Livingstone</p>
-        
+
         <p class="fr-book-desc">Explains how human visual systems process detail and perception.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

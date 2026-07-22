@@ -460,7 +460,7 @@ Because Why questions depend on those links, they tend to expose comprehension l
 <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
 </h4>
 <p class="fr-book-author">By Natalie Wexler</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -477,7 +477,7 @@ Because Why questions depend on those links, they tend to expose comprehension l
 <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
 </h4>
 <p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -494,7 +494,7 @@ Because Why questions depend on those links, they tend to expose comprehension l
 <a href="https://www.amazon.com/s?k=Know+Better%2C+Do+Better+%3A+Comprehension+David+Liben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Know Better, Do Better : Comprehension">Know Better, Do Better : Comprehension</a>
 </h4>
 <p class="fr-book-author">By David Liben, Meredith Liben</p>
-        
+
 <p class="fr-book-desc">First published 2024.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Know+Better%2C+Do+Better+%3A+Comprehension+David+Liben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

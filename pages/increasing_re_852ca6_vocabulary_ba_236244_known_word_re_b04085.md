@@ -436,7 +436,7 @@ This is why long-term reading speed improvements tend to come from accumulated w
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Directly builds vocabulary and automatic word recognition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ This is why long-term reading speed improvements tend to come from accumulated w
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Links vocabulary knowledge with comprehension efficiency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +470,7 @@ This is why long-term reading speed improvements tend to come from accumulated w
           <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
         </h4>
         <p class="fr-book-author">By Chris Lele</p>
-        
+
         <p class="fr-book-desc">Expands vocabulary depth and word familiarity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

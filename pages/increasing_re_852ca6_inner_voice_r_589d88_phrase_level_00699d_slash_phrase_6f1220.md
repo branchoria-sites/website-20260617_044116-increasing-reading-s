@@ -437,7 +437,7 @@ The technique does not eliminate inner speech, nor does it require skipping word
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
         </h4>
         <p class="fr-book-author">By Abby Marks-Beale</p>
-        
+
         <p class="fr-book-desc">Includes exercises that train readers to process larger text units.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ The technique does not eliminate inner speech, nor does it require skipping word
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Strong emphasis on chunking and phrase-based reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -471,7 +471,7 @@ The technique does not eliminate inner speech, nor does it require skipping word
           <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
         </h4>
         <p class="fr-book-author">By Stanley D. Frank</p>
-        
+
         <p class="fr-book-desc">Uses training drills that resemble phrase-grouping practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ The technique does not eliminate inner speech, nor does it require skipping word
           <a href="https://www.amazon.com/s?k=Speed+Reading+with+the+Right+Brain+David+Butler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed Reading with the Right Brain">Speed Reading with the Right Brain</a>
         </h4>
         <p class="fr-book-author">By David Butler</p>
-        
+
         <p class="fr-book-desc">Encourages grouping words into meaningful units.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Speed+Reading+with+the+Right+Brain+David+Butler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

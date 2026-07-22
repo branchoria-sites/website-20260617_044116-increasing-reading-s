@@ -449,7 +449,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Supports the value of targeted retrieval over vague uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -466,7 +466,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
           <a href="https://www.amazon.com/s?k=Ultralearning+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
         </h4>
         <p class="fr-book-author">By Scott H. Young</p>
-        
+
         <p class="fr-book-desc">Promotes active questioning and deliberate knowledge acquisition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ultralearning+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -483,7 +483,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
           <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
         </h4>
         <p class="fr-book-author">By Jonathan A. Levi</p>
-        
+
         <p class="fr-book-desc">Focuses on intentional reading and targeted comprehension strategies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

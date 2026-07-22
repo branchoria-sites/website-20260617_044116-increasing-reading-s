@@ -419,7 +419,7 @@ Practised-text gains remain useful because they can build confidence and automat
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Addresses fluency assessment on new and practiced texts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Practised-text gains remain useful because they can build confidence and automat
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
         </h4>
         <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
-        
+
         <p class="fr-book-desc">Includes assessment and transfer-oriented activities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ Practised-text gains remain useful because they can build confidence and automat
           <a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentials of Assessing, Preventing, and Overcoming Reading Difficulties">Essentials of Assessing, Preventing, and Overcoming Reading D...</a>
         </h4>
         <p class="fr-book-author">By David A. Kilpatrick, Kaufman, Alan S. et al.</p>
-        
+
         <p class="fr-book-desc">Emphasizes valid assessment of reading skill.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -470,7 +470,7 @@ Practised-text gains remain useful because they can build confidence and automat
           <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
         </h4>
         <p class="fr-book-author">By Jennifer Serravallo</p>
-        
+
         <p class="fr-book-desc">Useful for monitoring comprehension alongside fluency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

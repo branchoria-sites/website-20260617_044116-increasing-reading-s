@@ -400,7 +400,7 @@ A skilled reader can move quickly through familiar text because relatively few w
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on language processing and lexical knowledge that helps explain why unfamiliar words require more effort.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ A skilled reader can move quickly through familiar text because relatively few w
           <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
         </h4>
         <p class="fr-book-author">By Mark Seidenberg</p>
-        
+
         <p class="fr-book-desc">Focuses on how readers recognize words and derive meaning, making it highly relevant to vocabulary difficulty and reading speed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ A skilled reader can move quickly through familiar text because relatively few w
           <a href="https://www.amazon.com/s?k=The+psychology+of+language+Trevor+A.+Harley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The psychology of language">The psychology of language</a>
         </h4>
         <p class="fr-book-author">By Trevor A. Harley</p>
-        
+
         <p class="fr-book-desc">Directly explains word recognition, lexical processing, reading, comprehension, and why difficult vocabulary increases processing demands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+psychology+of+language+Trevor+A.+Harley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ A skilled reader can move quickly through familiar text because relatively few w
           <a href="https://www.amazon.com/s?k=The+Stuff+of+Thought+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stuff of Thought">The Stuff of Thought</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker</p>
-        
+
         <p class="fr-book-desc">Explores meaning, word use, and language comprehension, supporting discussion of how vocabulary complexity affects understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Stuff+of+Thought+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -403,7 +403,7 @@ For someone trying to increase reading speed, the lesson is simple: do not read 
           <a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mayo Clinic family health book">Mayo Clinic family health book</a>
         </h4>
         <p class="fr-book-author">By David E. Larson, Mayo Clinic. et al.</p>
-        
+
         <p class="fr-book-desc">Supports informed decisions about ongoing treatment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ For someone trying to increase reading speed, the lesson is simple: do not read 
           <a href="https://www.amazon.com/s?k=Drugs-From+Discovery+to+Approval+Rick+Ng&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drugs-From Discovery to Approval">Drugs-From Discovery to Approval</a>
         </h4>
         <p class="fr-book-author">By Rick Ng</p>
-        
+
         <p class="fr-book-desc">Helps explain why dosing instructions differ among medicines.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drugs-From+Discovery+to+Approval+Rick+Ng&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ For someone trying to increase reading speed, the lesson is simple: do not read 
           <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
         </h4>
         <p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: BUSINESS &amp; ECONOMICS / Skills, Interpersonal communication, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Prob...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ For someone trying to increase reading speed, the lesson is simple: do not read 
           <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effective Executive">The Effective Executive</a>
         </h4>
         <p class="fr-book-author">By Peter F Drucker</p>
-        
+
         <p class="fr-book-desc">First published 1967.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

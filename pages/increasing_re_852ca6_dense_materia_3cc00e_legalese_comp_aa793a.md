@@ -414,7 +414,7 @@ At the same time, legal documents remain examples of texts where selective slowi
           <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal writing in plain English">Legal writing in plain English</a>
         </h4>
         <p class="fr-book-author">By Bryan A. Garner</p>
-        
+
         <p class="fr-book-desc">Directly addresses how legal language affects comprehension and how clearer drafting can improve understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ At the same time, legal documents remain examples of texts where selective slowi
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Provides a framework for understanding cognitive load and why dense, interruption-heavy text slows readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ At the same time, legal documents remain examples of texts where selective slowi
           <a href="https://www.amazon.com/s?k=Redbook+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Redbook">Redbook</a>
         </h4>
         <p class="fr-book-author">By Bryan A. Garner</p>
-        
+
         <p class="fr-book-desc">Explains legal drafting conventions, sentence structure, and readability issues in legal documents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Redbook+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ At the same time, legal documents remain examples of texts where selective slowi
           <a href="https://www.amazon.com/s?k=Style+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Style">Style</a>
         </h4>
         <p class="fr-book-author">By Joseph M. Williams, Joseph Bizup et al.</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: English language, Style, Rhetoric, Business English, Technical English.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Style+Joseph+M.+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -524,7 +524,7 @@ A practical rule is to read quickly until understanding becomes consequential. O
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
         </h4>
         <p class="fr-book-author">By Cal Newport</p>
-        
+
         <p class="fr-book-desc">Supports focused, careful reading when precision matters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -541,7 +541,7 @@ A practical rule is to read quickly until understanding becomes consequential. O
           <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
         </h4>
         <p class="fr-book-author">By Jonathan A. Levi</p>
-        
+
         <p class="fr-book-desc">Balances faster reading with comprehension and retention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -558,7 +558,7 @@ A practical rule is to read quickly until understanding becomes consequential. O
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Covers skimming, scanning, and strategic slowing down.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

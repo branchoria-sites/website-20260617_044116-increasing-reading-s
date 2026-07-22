@@ -451,7 +451,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
           <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
         </h4>
         <p class="fr-book-author">By David Allen</p>
-        
+
         <p class="fr-book-desc">Focuses on processing incoming information efficiently and turning it into actionable decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
           <a href="https://www.amazon.com/s?k=The+Organized+Mind+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
         </h4>
         <p class="fr-book-author">By Daniel Levitin</p>
-        
+
         <p class="fr-book-desc">Matches the article&#x27;s core theme of filtering, prioritizing, and managing large volumes of incoming information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Organized+Mind+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -485,7 +485,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
         </h4>
         <p class="fr-book-author">By Cal Newport</p>
-        
+
         <p class="fr-book-desc">Helps readers decide what deserves sustained attention after rapid filtering and triage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -502,7 +502,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
           <a href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
         </h4>
         <p class="fr-book-author">By Nicholas Carr</p>
-        
+
         <p class="fr-book-desc">Provides broader context on how online information consumption affects reading, comprehension, and focus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

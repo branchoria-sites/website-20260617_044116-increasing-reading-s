@@ -460,7 +460,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Shows how knowledge accumulation improves learning efficiency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -477,7 +477,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
           <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
         </h4>
         <p class="fr-book-author">By Natalie Wexler</p>
-        
+
         <p class="fr-book-desc">Argues that background knowledge drives comprehension.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -494,7 +494,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
           <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
         </h4>
         <p class="fr-book-author">By Chris Lele</p>
-        
+
         <p class="fr-book-desc">Directly expands vocabulary for faster reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

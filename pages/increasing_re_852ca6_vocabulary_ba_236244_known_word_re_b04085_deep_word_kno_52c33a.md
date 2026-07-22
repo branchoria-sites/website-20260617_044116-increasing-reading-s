@@ -443,7 +443,7 @@ These advantages reduce the number and length of processing delays that occur af
 <a href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bringing Words to Life, Second Edition">Bringing Words to Life, Second Edition</a>
 </h4>
 <p class="fr-book-author">By Isabel L. Beck, Margaret G. McKeown, Linda Kucan</p>
-        
+
 <p class="fr-book-desc">Directly addresses deep word knowledge, multiple meanings, vocabulary depth, and fluent comprehension.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -477,7 +477,7 @@ These advantages reduce the number and length of processing delays that occur af
 <a href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words, Words, Words">Words, Words, Words</a>
 </h4>
 <p class="fr-book-author">By Janet Allen</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Study and teaching, Language arts, Vocabulary.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -494,7 +494,7 @@ These advantages reduce the number and length of processing delays that occur af
 <a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vocabulary Book">The Vocabulary Book</a>
 </h4>
 <p class="fr-book-author">By Michael F. Graves</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Vocabulary, Study and teaching, English language, study and teaching.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

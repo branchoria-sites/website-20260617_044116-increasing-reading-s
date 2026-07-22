@@ -376,7 +376,7 @@ For reading speed, the practical implication is straightforward: every unfamilia
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Targets unfamiliar words and builds rapid recognition through repeated exposure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For reading speed, the practical implication is straightforward: every unfamilia
           <a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merriam-Webster&#x27;s vocabulary builder">Merriam-Webster&#x27;s vocabulary builder</a>
         </h4>
         <p class="fr-book-author">By Mary W. Cornog</p>
-        
+
         <p class="fr-book-desc">Focuses on understanding and remembering less common words.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For reading speed, the practical implication is straightforward: every unfamilia
           <a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vocabulary Book">The Vocabulary Book</a>
         </h4>
         <p class="fr-book-author">By Michael F. Graves</p>
-        
+
         <p class="fr-book-desc">Explains how readers acquire and automate word knowledge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ For reading speed, the practical implication is straightforward: every unfamilia
           <a href="https://www.amazon.com/s?k=1100+Words+You+Need+to+Know+Flashcards%2C+Second+Edition+Melvin+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1100 Words You Need to Know Flashcards, Second Edition">1100 Words You Need to Know Flashcards, Second Edition</a>
         </h4>
         <p class="fr-book-author">By Melvin Gordon, Murray Bromberg et al.</p>
-        
+
         <p class="fr-book-desc">First published 2023. Subjects: English language, study and teaching, foreign speakers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1100+Words+You+Need+to+Know+Flashcards%2C+Second+Edition+Melvin+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

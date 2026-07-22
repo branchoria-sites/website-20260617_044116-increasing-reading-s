@@ -425,7 +425,7 @@ For readers focused on [increasing]({{ 'increasing/' | relative_url }}) reading 
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
         </h4>
         <p class="fr-book-author">By Cal Newport</p>
-        
+
         <p class="fr-book-desc">Helps readers understand when concentration has broken down significantly.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ For readers focused on [increasing]({{ 'increasing/' | relative_url }}) reading 
           <a href="https://www.amazon.com/s?k=Hyperfocus+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperfocus">Hyperfocus</a>
         </h4>
         <p class="fr-book-author">By Chris Bailey</p>
-        
+
         <p class="fr-book-desc">Relevant to recovering after major lapses in focus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hyperfocus+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ For readers focused on [increasing]({{ 'increasing/' | relative_url }}) reading 
           <a href="https://www.amazon.com/s?k=The+Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Mind">The Reading Mind</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Explains comprehension breakdowns and repair.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

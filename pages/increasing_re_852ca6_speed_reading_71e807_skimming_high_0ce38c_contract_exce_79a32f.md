@@ -459,7 +459,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
         </h4>
         <p class="fr-book-author">By Kenneth A. Adams</p>
-        
+
         <p class="fr-book-desc">Explains contract language, exceptions, definitions, and wording that skimmers often miss.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
           <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
         </h4>
         <p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
-        
+
         <p class="fr-book-desc">Shows how meaning depends on context, qualifications, and textual interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
           <a href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Contract Drafting with Questions and Clauses for Consideration">The Elements of Contract Drafting with Questions and Clauses...</a>
         </h4>
         <p class="fr-book-author">By George W. Kuney</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Contracts, Cases, Legal composition, Language.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -390,7 +390,7 @@ The practical implication is straightforward: readers who regularly engage with 
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Matches the page&#x27;s emphasis on repetition making words faster to recognize.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The practical implication is straightforward: readers who regularly engage with 
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Provides evidence-based insight into repetition, retrieval, and durable memory formation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The practical implication is straightforward: readers who regularly engage with 
           <a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merriam-Webster&#x27;s vocabulary builder">Merriam-Webster&#x27;s vocabulary builder</a>
         </h4>
         <p class="fr-book-author">By Mary W. Cornog</p>
-        
+
         <p class="fr-book-desc">Demonstrates how repeated encounters reinforce spelling, meaning, and recall.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The practical implication is straightforward: readers who regularly engage with 
           <a href="https://www.amazon.com/s?k=1100+Words+You+Need+to+Know+Flashcards%2C+Second+Edition+Melvin+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1100 Words You Need to Know Flashcards, Second Edition">1100 Words You Need to Know Flashcards, Second Edition</a>
         </h4>
         <p class="fr-book-author">By Melvin Gordon, Murray Bromberg et al.</p>
-        
+
         <p class="fr-book-desc">First published 2023. Subjects: English language, study and teaching, foreign speakers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1100+Words+You+Need+to+Know+Flashcards%2C+Second+Edition+Melvin+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -445,7 +445,7 @@ For increasing reading speed, the most useful habit is therefore not suppressing
           <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
         </h4>
         <p class="fr-book-author">By Stanislas Dehaene</p>
-        
+
         <p class="fr-book-desc">Shows cognitive limits of rapid reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ For increasing reading speed, the most useful habit is therefore not suppressing
           <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
         </h4>
         <p class="fr-book-author">By Mark Seidenberg</p>
-        
+
         <p class="fr-book-desc">Explains when sound-based processing helps comprehension.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ For increasing reading speed, the most useful habit is therefore not suppressing
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Discusses varying reading speeds for different tasks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

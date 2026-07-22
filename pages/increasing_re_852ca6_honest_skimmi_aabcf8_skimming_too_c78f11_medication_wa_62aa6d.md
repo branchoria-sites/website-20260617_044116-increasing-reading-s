@@ -412,7 +412,7 @@ A useful compromise is selective slowing. Readers can skim surrounding explanato
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
         </h4>
         <p class="fr-book-author">By Atul Gawande</p>
-        
+
         <p class="fr-book-desc">Emphasizes careful attention in safety-critical contexts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ A useful compromise is selective slowing. Readers can skim surrounding explanato
           <a href="https://www.amazon.com/s?k=Being+Mortal+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
         </h4>
         <p class="fr-book-author">By Atul Gawande</p>
-        
+
         <p class="fr-book-desc">Encourages informed engagement with medical information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Being+Mortal+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ A useful compromise is selective slowing. Readers can skim surrounding explanato
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains decision errors that can arise from rushing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ A useful compromise is selective slowing. Readers can skim surrounding explanato
           <a href="https://www.amazon.com/s?k=The+patient%27s+playbook+Leslie+D.+Michelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The patient&#x27;s playbook">The patient&#x27;s playbook</a>
         </h4>
         <p class="fr-book-author">By Leslie D. Michelson</p>
-        
+
         <p class="fr-book-desc">Helps readers navigate medical instructions and decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+patient%27s+playbook+Leslie+D.+Michelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

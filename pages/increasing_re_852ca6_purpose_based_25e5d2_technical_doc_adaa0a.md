@@ -497,7 +497,7 @@ That small decision changes technical reading from a one-speed activity into a p
           <a href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
         </h4>
         <p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
-        
+
         <p class="fr-book-desc">Provides context for how technical information supports operations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -531,7 +531,7 @@ That small decision changes technical reading from a one-speed activity into a p
           <a href="https://www.amazon.com/s?k=Clean+Code+Robert+C.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clean Code">Clean Code</a>
         </h4>
         <p class="fr-book-author">By Robert C. Martin</p>
-        
+
         <p class="fr-book-desc">Useful for readers working through technical documentation and systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Clean+Code+Robert+C.+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -548,7 +548,7 @@ That small decision changes technical reading from a one-speed activity into a p
           <a href="https://www.amazon.com/s?k=Site+Reliability+Engineering+Betsy+Beyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Site Reliability Engineering">Site Reliability Engineering</a>
         </h4>
         <p class="fr-book-author">By Betsy Beyer, Jones, Chris (Computer engineer) et al.</p>
-        
+
         <p class="fr-book-desc">Readers frequently use documentation, runbooks, and references.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Site+Reliability+Engineering+Betsy+Beyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

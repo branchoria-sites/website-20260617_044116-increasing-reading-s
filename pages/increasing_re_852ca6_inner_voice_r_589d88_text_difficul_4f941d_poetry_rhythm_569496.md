@@ -364,7 +364,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
           <a href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Poetry Handbook">A Poetry Handbook</a>
         </h4>
         <p class="fr-book-author">By Mary Oliver</p>
-        
+
         <p class="fr-book-desc">Shows how sound and structure shape interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
           <a href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rules for the dance">Rules for the dance</a>
         </h4>
         <p class="fr-book-author">By Mary Oliver</p>
-        
+
         <p class="fr-book-desc">Focused on reading and understanding meter.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
           <a href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ode Less Travelled CD">The Ode Less Travelled CD</a>
         </h4>
         <p class="fr-book-author">By Stephen Fry</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Authorship, Poetry, Fiction, Poetry, authorship, Poetics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
           <a href="https://www.amazon.com/s?k=How+to+read+a+poem+Edward+Hirsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a poem">How to read a poem</a>
         </h4>
         <p class="fr-book-author">By Edward Hirsch</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Poetics, History and criticism, Poetry, Explication, Poetry, history and criticism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+read+a+poem+Edward+Hirsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

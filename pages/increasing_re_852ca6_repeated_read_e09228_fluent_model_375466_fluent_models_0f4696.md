@@ -384,7 +384,7 @@ A fluent model changes the nature of practice. It establishes a target for expre
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Directly addresses modeled reading, prosody, repeated reading, and fluency development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ A fluent model changes the nature of practice. It establishes a target for expre
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
         </h4>
         <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
-        
+
         <p class="fr-book-desc">Covers oral modeling, expression, phrasing, and guided rereading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ A fluent model changes the nature of practice. It establishes a target for expre
           <a href="https://www.amazon.com/s?k=Speech+to+Print+Louisa+Cook+Moats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speech to Print">Speech to Print</a>
         </h4>
         <p class="fr-book-author">By Louisa Cook Moats</p>
-        
+
         <p class="fr-book-desc">Builds understanding of language structures underlying fluent oral reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Speech+to+Print+Louisa+Cook+Moats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ A fluent model changes the nature of practice. It establishes a target for expre
           <a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shifting the Balance">Shifting the Balance</a>
         </h4>
         <p class="fr-book-author">By Jan Burkins, Kari Yates</p>
-        
+
         <p class="fr-book-desc">Explains evidence-based reading instruction that supports fluent reading development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

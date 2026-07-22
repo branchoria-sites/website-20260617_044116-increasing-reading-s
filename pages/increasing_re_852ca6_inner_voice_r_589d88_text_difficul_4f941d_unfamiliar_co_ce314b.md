@@ -394,7 +394,7 @@ This adjustment is one of the most important skills in increasing reading speed.
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Addresses encoding and retention of new information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ This adjustment is one of the most important skills in increasing reading speed.
           <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
         </h4>
         <p class="fr-book-author">By Barbara A. Oakley</p>
-        
+
         <p class="fr-book-desc">Explains how people absorb unfamiliar concepts and terminology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ This adjustment is one of the most important skills in increasing reading speed.
           <a href="https://www.amazon.com/s?k=Ultralearning+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
         </h4>
         <p class="fr-book-author">By Scott H. Young</p>
-        
+
         <p class="fr-book-desc">Covers strategies for mastering unfamiliar subjects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ultralearning+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ This adjustment is one of the most important skills in increasing reading speed.
           <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonwalking with Einstein">Moonwalking with Einstein</a>
         </h4>
         <p class="fr-book-author">By Joshua Foer</p>
-        
+
         <p class="fr-book-desc">Relates to retaining novel concepts and vocabulary.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

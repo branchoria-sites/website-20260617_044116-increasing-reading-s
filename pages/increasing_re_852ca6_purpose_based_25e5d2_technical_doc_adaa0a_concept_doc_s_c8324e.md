@@ -479,7 +479,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
           <a href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
         </h4>
         <p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
-        
+
         <p class="fr-book-desc">Builds mental models of systems and processes, matching concept-oriented reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Phoenix+Project+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
           <a href="https://www.amazon.com/s?k=The+DevOps+Handbook+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The DevOps Handbook">The DevOps Handbook</a>
         </h4>
         <p class="fr-book-author">By Gene Kim, Jez Humble et al.</p>
-        
+
         <p class="fr-book-desc">Explains how complex systems fit together, similar to concept documentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+DevOps+Handbook+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -513,7 +513,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
           <a href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Software Architecture In Practice 3/E">Software Architecture In Practice 3/E</a>
         </h4>
         <p class="fr-book-author">By Len Bass, Paul Clements et al.</p>
-        
+
         <p class="fr-book-desc">First published 2013.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -530,7 +530,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
           <a href="https://www.amazon.com/s?k=The+DevOps+Handbook+-+Audio-eBook+Combo+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The DevOps Handbook - Audio-eBook Combo">The DevOps Handbook - Audio-eBook Combo</a>
         </h4>
         <p class="fr-book-author">By Gene Kim, Jez Humble et al.</p>
-        
+
         <p class="fr-book-desc">First published 2020. Subjects: Business and economics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+DevOps+Handbook+-+Audio-eBook+Combo+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

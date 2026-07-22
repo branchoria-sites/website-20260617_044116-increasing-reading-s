@@ -433,7 +433,7 @@ For tracking reading improvement, the safest interpretation is simple: a higher 
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
         </h4>
         <p class="fr-book-author">By Abby Marks-Beale</p>
-        
+
         <p class="fr-book-desc">Supports practical reading-speed tracking and improvement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ For tracking reading improvement, the safest interpretation is simple: a higher 
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Useful when comparing reading speeds across familiar and unfamiliar topics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ For tracking reading improvement, the safest interpretation is simple: a higher 
           <a href="https://www.amazon.com/s?k=Reading+for+Understanding+Ruth+Schoenbach%3B+Cynthia+Greenleaf%3B+Lynn+Murphy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading for Understanding">Reading for Understanding</a>
         </h4>
         <p class="fr-book-author">By Ruth Schoenbach; Cynthia Greenleaf; Lynn Murphy</p>
-        
+
         <p class="fr-book-desc">Explores how background knowledge affects comprehension.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+for+Understanding+Ruth+Schoenbach%3B+Cynthia+Greenleaf%3B+Lynn+Murphy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -458,7 +458,7 @@ For increasing reading speed, the key insight is counterintuitive: the fastest w
           <a href="https://www.amazon.com/s?k=The+Linux+Command+Line+William+E.+Shotts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Linux Command Line">The Linux Command Line</a>
         </h4>
         <p class="fr-book-author">By William E. Shotts</p>
-        
+
         <p class="fr-book-desc">Shows effective use of command references and lookup-oriented material.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Linux+Command+Line+William+E.+Shotts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ For increasing reading speed, the key insight is counterintuitive: the fastest w
           <a href="https://www.amazon.com/s?k=UNIX+and+Linux+System+Administration+Handbook+%285th+Edition%29+Evi+Nemeth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UNIX and Linux System Administration Handbook (5th Edition)">UNIX and Linux System Administration Handbook (5th Edition)</a>
         </h4>
         <p class="fr-book-author">By Evi Nemeth, Garth Snyder et al.</p>
-        
+
         <p class="fr-book-desc">Heavy use of factual lookup and reference workflows.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UNIX+and+Linux+System+Administration+Handbook+%285th+Edition%29+Evi+Nemeth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -492,7 +492,7 @@ For increasing reading speed, the key insight is counterintuitive: the fastest w
           <a href="https://www.amazon.com/s?k=Site+Reliability+Engineering+Betsy+Beyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Site Reliability Engineering">Site Reliability Engineering</a>
         </h4>
         <p class="fr-book-author">By Betsy Beyer, Jones, Chris (Computer engineer) et al.</p>
-        
+
         <p class="fr-book-desc">Demonstrates targeted retrieval of technical facts and procedures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Site+Reliability+Engineering+Betsy+Beyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -509,7 +509,7 @@ For increasing reading speed, the key insight is counterintuitive: the fastest w
           <a href="https://www.amazon.com/s?k=Kubernetes%3A+Up+and+Running%3A+Dive+into+the+Future+of+Infrastructure+Kelsey+Hightower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kubernetes: Up and Running: Dive into the Future of Infrastructure">Kubernetes: Up and Running: Dive into the Future of Infrastru...</a>
         </h4>
         <p class="fr-book-author">By Kelsey Hightower, Brendan Burns et al.</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Development, Installation, Application software, Software maintenance, Open source software.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kubernetes%3A+Up+and+Running%3A+Dive+into+the+Future+of+Infrastructure+Kelsey+Hightower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -486,27 +486,10 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
           <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
         </h4>
         <p class="fr-book-author">By Edward R. Tufte</p>
-        
+
         <p class="fr-book-desc">Explains how charts convey evidence and support decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Charts Lie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9254486-M.jpg" alt="Cover for How Charts Lie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Charts Lie">How Charts Lie</a>
-        </h4>
-        <p class="fr-book-author">By Alberto Cairo</p>
-        
-        <p class="fr-book-desc">Teaches readers to evaluate chart credibility.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -520,10 +503,27 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
           <a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Storytelling with Data">Storytelling with Data</a>
         </h4>
         <p class="fr-book-author">By Cole Nussbaumer Knaflic</p>
-        
+
         <p class="fr-book-desc">Directly helps readers interpret charts and decision-critical visuals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Charts Lie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9254486-M.jpg" alt="Cover for How Charts Lie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Charts Lie">How Charts Lie</a>
+        </h4>
+        <p class="fr-book-author">By Alberto Cairo</p>
+
+        <p class="fr-book-desc">Teaches readers to evaluate chart credibility.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -537,7 +537,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
           <a href="https://www.amazon.com/s?k=Bulletproof+Problem+Solving+Charles+Conn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bulletproof Problem Solving">Bulletproof Problem Solving</a>
         </h4>
         <p class="fr-book-author">By Charles Conn, Robert McLean</p>
-        
+
         <p class="fr-book-desc">Shows how evidence visuals support decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bulletproof+Problem+Solving+Charles+Conn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -548,7 +548,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lie+charts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lie charts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Storytelling+with+Data&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Storytelling with Data</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Storytelling+with+Data&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Storytelling with Data</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lie+charts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lie charts</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

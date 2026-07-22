@@ -470,7 +470,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
           <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
         </h4>
         <p class="fr-book-author">By David Allen</p>
-        
+
         <p class="fr-book-desc">Provides a practical framework for processing inboxes, identifying actions, and prioritizing attention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -487,7 +487,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
         </h4>
         <p class="fr-book-author">By Cal Newport</p>
-        
+
         <p class="fr-book-desc">Helps readers distinguish high-value communications from routine noise and allocate attention effectively.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Work+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -504,7 +504,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
         </h4>
         <p class="fr-book-author">By Atul Gawande</p>
-        
+
         <p class="fr-book-desc">Supports systematic decision-making and triage approaches that reduce missed obligations and errors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -521,7 +521,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
           <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
         </h4>
         <p class="fr-book-author">By Greg McKeown</p>
-        
+
         <p class="fr-book-desc">Reinforces selective attention and distinguishing important messages from merely urgent ones.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

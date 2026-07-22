@@ -407,7 +407,7 @@ WCPM helps reveal that difference. By counting only successful word recognition,
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Strong fit for WCPM, accuracy, and fluency measurement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ WCPM helps reveal that difference. By counting only successful word recognition,
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
         </h4>
         <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
-        
+
         <p class="fr-book-desc">Provides practical fluency assessment ideas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ WCPM helps reveal that difference. By counting only successful word recognition,
           <a href="https://www.amazon.com/s?k=What+Really+Matters+for+Struggling+Readers+Richard+L.+Allington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Really Matters for Struggling Readers">What Really Matters for Struggling Readers</a>
         </h4>
         <p class="fr-book-author">By Richard L. Allington</p>
-        
+
         <p class="fr-book-desc">Addresses meaningful measures of reading progress.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=What+Really+Matters+for+Struggling+Readers+Richard+L.+Allington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ WCPM helps reveal that difference. By counting only successful word recognition,
           <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
         </h4>
         <p class="fr-book-author">By Jennifer Serravallo</p>
-        
+
         <p class="fr-book-desc">Includes assessment and progress-monitoring strategies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

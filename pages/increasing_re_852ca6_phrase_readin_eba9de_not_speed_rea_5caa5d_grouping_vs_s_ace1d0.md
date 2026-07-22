@@ -450,7 +450,7 @@ Phrase reading and skimming both increase reading speed, but they achieve that s
           <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
         </h4>
         <p class="fr-book-author">By Stanislas Dehaene</p>
-        
+
         <p class="fr-book-desc">Provides cognitive science background on how skilled reading works, supporting discussion of phrase processing and comprehension.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ Phrase reading and skimming both increase reading speed, but they achieve that s
           <a href="https://www.amazon.com/s?k=How+to+read+better+and+faster+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read better and faster">How to read better and faster</a>
         </h4>
         <p class="fr-book-author">By Norman Lewis</p>
-        
+
         <p class="fr-book-desc">Focuses on increasing reading efficiency while maintaining understanding, closely aligned with the article&#x27;s comparison of grouping and s...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+read+better+and+faster+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -484,7 +484,7 @@ Phrase reading and skimming both increase reading speed, but they achieve that s
           <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
         </h4>
         <p class="fr-book-author">By Jonathan A. Levi</p>
-        
+
         <p class="fr-book-desc">Explores reading faster while retaining information, helping readers distinguish comprehension-preserving methods from superficial scanning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

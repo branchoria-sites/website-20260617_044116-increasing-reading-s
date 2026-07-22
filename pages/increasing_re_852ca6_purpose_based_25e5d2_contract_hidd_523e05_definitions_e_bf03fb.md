@@ -393,7 +393,7 @@ This approach reduces the need to reread entire sections because it identifies t
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
         </h4>
         <p class="fr-book-author">By Kenneth A. Adams</p>
-        
+
         <p class="fr-book-desc">Extensively covers defined terms and their legal effect.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ This approach reduces the need to reread entire sections because it identifies t
           <a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working with contracts">Working with contracts</a>
         </h4>
         <p class="fr-book-author">By Charles M. Fox</p>
-        
+
         <p class="fr-book-desc">Helps readers trace defined terms through agreements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ This approach reduces the need to reread entire sections because it identifies t
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ This approach reduces the need to reread entire sections because it identifies t
           <a href="https://www.amazon.com/s?k=Contracts+in+Plain+English+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contracts in Plain English">Contracts in Plain English</a>
         </h4>
         <p class="fr-book-author">By Robert W. Bly</p>
-        
+
         <p class="fr-book-desc">Shows how definitions alter obligations and rights.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Contracts+in+Plain+English+Robert+W.+Bly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

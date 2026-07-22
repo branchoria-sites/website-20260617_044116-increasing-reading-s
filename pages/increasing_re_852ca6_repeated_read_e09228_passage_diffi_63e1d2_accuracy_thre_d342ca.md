@@ -359,7 +359,7 @@ The best rereading passage is not the hardest one available. It is the passage t
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Directly addresses accuracy, fluency, and effective repeated-reading practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ The best rereading passage is not the hardest one available. It is the passage t
           <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overcoming Dyslexia">Overcoming Dyslexia</a>
         </h4>
         <p class="fr-book-author">By Sally E. Shaywitz</p>
-        
+
         <p class="fr-book-desc">Explains why accuracy thresholds matter for developing fluent reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ The best rereading passage is not the hardest one available. It is the passage t
           <a href="https://www.amazon.com/s?k=Speech+to+Print+Louisa+Cook+Moats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speech to Print">Speech to Print</a>
         </h4>
         <p class="fr-book-author">By Louisa Cook Moats</p>
-        
+
         <p class="fr-book-desc">Clarifies decoding accuracy and word-recognition development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Speech+to+Print+Louisa+Cook+Moats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ The best rereading passage is not the hardest one available. It is the passage t
           <a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shifting the Balance">Shifting the Balance</a>
         </h4>
         <p class="fr-book-author">By Jan Burkins, Kari Yates</p>
-        
+
         <p class="fr-book-desc">Supports evidence-based decisions about reading proficiency and text selection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

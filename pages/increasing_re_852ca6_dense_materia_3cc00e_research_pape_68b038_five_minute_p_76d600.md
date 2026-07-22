@@ -472,16 +472,33 @@ Used consistently, this sequence turns research reading from a reactive activity
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read literature like a professor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/20658-M.jpg" alt="Cover for How to read literature like a professor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read literature like a professor">How to read literature like a professor</a>
+          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
+
+        <p class="fr-book-desc">Explains research design, evidence, methods, and how experts interpret research papers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read literature like a professor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/20658-M.jpg" alt="Cover for How to read literature like a professor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read literature like a professor">How to read literature like a professor</a>
+        </h4>
+        <p class="fr-book-author">By Thomas C. Foster</p>
+
         <p class="fr-book-desc">Strengthens the habit of quickly spotting structure, themes, and key signals before detailed analysis.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -495,7 +512,7 @@ Used consistently, this sequence turns research reading from a reactive activity
           <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Take Smart Notes">How to Take Smart Notes</a>
         </h4>
         <p class="fr-book-author">By Sönke Ahrens</p>
-        
+
         <p class="fr-book-desc">Connects paper previewing and selective reading to effective note-taking and knowledge retention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -512,7 +529,7 @@ Used consistently, this sequence turns research reading from a reactive activity
           <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a paper">How to read a paper</a>
         </h4>
         <p class="fr-book-author">By Trisha Greenhalgh</p>
-        
+
         <p class="fr-book-desc">Directly teaches readers how to assess papers efficiently before investing in deep reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -521,26 +538,9 @@ Used consistently, this sequence turns research reading from a reactive activity
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
-        </h4>
-        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
-        
-        <p class="fr-book-desc">First published 1995. Subjects: Technical writing, Methodology, Research, Recherche, Guides, manuels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read literature like a professor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Take Smart Notes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+a+paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read a paper</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+to+Writing%2C+Editing%2C+and+Publishing%29+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Research (Chicago to Writing, Editing, and Publishing) books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read literature like a professor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Take Smart Notes</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -440,7 +440,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, José C. Vales</p>
-        
+
         <p class="fr-book-desc">Explains reference, clarity, and how readers resolve pronouns and meaning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
-        
+
         <p class="fr-book-desc">Provides accessible insight into language processing and reference resolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -474,7 +474,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
           <a href="https://www.amazon.com/s?k=Because+Internet+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
         </h4>
         <p class="fr-book-author">By Gretchen McCulloch</p>
-        
+
         <p class="fr-book-desc">Explores how meaning and reference are interpreted in real language use.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Because+Internet+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -491,7 +491,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
           <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Explains comprehension processes involved in connecting ideas across sentences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

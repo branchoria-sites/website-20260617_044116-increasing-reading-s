@@ -456,7 +456,7 @@ For task documentation, the most efficient reader is rarely the fastest scanner.
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
         </h4>
         <p class="fr-book-author">By Atul Gawande</p>
-        
+
         <p class="fr-book-desc">Explains why following procedures carefully prevents costly mistakes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -473,7 +473,7 @@ For task documentation, the most efficient reader is rarely the fastest scanner.
           <a href="https://www.amazon.com/s?k=Turn+the+Ship+Around%21%3A+A+True+Story+of+Turning+Followers+into+Leaders+L.+David+Marquet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn the Ship Around!: A True Story of Turning Followers into Leaders">Turn the Ship Around!: A True Story of Turning Followers into...</a>
         </h4>
         <p class="fr-book-author">By L. David Marquet, Stephen R. Covey</p>
-        
+
         <p class="fr-book-desc">Highlights disciplined execution of operational processes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+the+Ship+Around%21%3A+A+True+Story+of+Turning+Followers+into+Leaders+L.+David+Marquet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -490,7 +490,7 @@ For task documentation, the most efficient reader is rarely the fastest scanner.
           <a href="https://www.amazon.com/s?k=The+Practice+of+System+and+Network+Administration%3A+Volume+1%3A+DevOps+and+other+Best+Practices+for+Enterprise+IT+%283rd+Edition%29+Thomas+A.+Limoncelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of System and Network Administration: Volume 1: DevOps and other Best Practices for Enterprise IT (3rd Edition)">The Practice of System and Network Administration: Volume 1:...</a>
         </h4>
         <p class="fr-book-author">By Thomas A. Limoncelli, Christina J. Hogan et al.</p>
-        
+
         <p class="fr-book-desc">Emphasizes procedural accuracy and execution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Practice+of+System+and+Network+Administration%3A+Volume+1%3A+DevOps+and+other+Best+Practices+for+Enterprise+IT+%283rd+Edition%29+Thomas+A.+Limoncelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -507,7 +507,7 @@ For task documentation, the most efficient reader is rarely the fastest scanner.
           <a href="https://www.amazon.com/s?k=Accelerate+Jez+Humble.+Gene+Kim.+Nicole+Forsgren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Accelerate">Accelerate</a>
         </h4>
         <p class="fr-book-author">By Jez Humble. Gene Kim. Nicole Forsgren</p>
-        
+
         <p class="fr-book-desc">Shows how process quality affects outcomes and efficiency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Accelerate+Jez+Humble.+Gene+Kim.+Nicole+Forsgren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

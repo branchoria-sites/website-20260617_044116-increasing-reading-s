@@ -369,30 +369,13 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the mind works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6740762-M.jpg" alt="Cover for How the mind works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the mind works">How the mind works</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides background on attention, memory, and cognitive processing that helps explain why rereading can support comprehension under RSVP...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Language Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406725-M.jpg" alt="Cover for The Language Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
-        
+
         <p class="fr-book-desc">Explains how humans process language, ambiguity, reference, and comprehension, providing accessible context for pronoun resolution and re...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +392,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
           <a href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language in Mind">Language in Mind</a>
         </h4>
         <p class="fr-book-author">By Julie Sedivy</p>
-        
+
         <p class="fr-book-desc">Directly addresses how readers and listeners resolve ambiguity, track references, and integrate information during comprehension.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +409,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
           <a href="https://www.amazon.com/s?k=The+Stuff+of+Thought+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Stuff of Thought">The Stuff of Thought</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker</p>
-        
+
         <p class="fr-book-desc">Focuses on how language conveys meaning, inference, reference, and interpretation—core issues behind temporary pronoun ambiguity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Stuff+of+Thought+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,9 +418,26 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+mind+works+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the mind works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6740762-M.jpg" alt="Cover for How the mind works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+the+mind+works+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the mind works">How the mind works</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides background on attention, memory, and cognitive processing that helps explain why rereading can support comprehension under RSVP...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+the+mind+works+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the mind works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Language+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Language Instinct</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+in+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language in Mind</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Language+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Language Instinct</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+in+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language in Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Stuff+of+Thought&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Stuff of Thought</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -387,7 +387,7 @@ For speed-reading practice, this distinction is especially important. If compreh
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
         </h4>
         <p class="fr-book-author">By Abby Marks-Beale</p>
-        
+
         <p class="fr-book-desc">Helps readers manage informational reading demands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For speed-reading practice, this distinction is especially important. If compreh
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
         </h4>
         <p class="fr-book-author">By Peter Kump</p>
-        
+
         <p class="fr-book-desc">Useful for processing dense nonfiction efficiently.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For speed-reading practice, this distinction is especially important. If compreh
           <a href="https://www.amazon.com/s?k=Reading+for+Understanding+Ruth+Schoenbach%3B+Cynthia+Greenleaf%3B+Lynn+Murphy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading for Understanding">Reading for Understanding</a>
         </h4>
         <p class="fr-book-author">By Ruth Schoenbach; Cynthia Greenleaf; Lynn Murphy</p>
-        
+
         <p class="fr-book-desc">Addresses comprehension of informational and academic texts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Reading+for+Understanding+Ruth+Schoenbach%3B+Cynthia+Greenleaf%3B+Lynn+Murphy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

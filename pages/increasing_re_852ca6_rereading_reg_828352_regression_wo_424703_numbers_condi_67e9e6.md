@@ -485,7 +485,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, the key dist
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
 </h4>
 <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
 <p class="fr-book-desc">Explains why precise details and retrieval matter for accurate understanding.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -502,7 +502,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, the key dist
 <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
 </h4>
 <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -519,7 +519,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, the key dist
 <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
 </h4>
 <p class="fr-book-author">By Jonathan A. Levi</p>
-        
+
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

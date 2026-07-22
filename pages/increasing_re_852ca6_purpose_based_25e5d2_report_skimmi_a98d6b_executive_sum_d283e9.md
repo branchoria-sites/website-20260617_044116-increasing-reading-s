@@ -462,7 +462,7 @@ For increasing reading speed, that makes the executive summary one of the most v
 <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
 </h4>
 <p class="fr-book-author">By Barbara Minto</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ For increasing reading speed, that makes the executive summary one of the most v
 <a href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hbr Guide To Better Business Writing">Hbr Guide To Better Business Writing</a>
 </h4>
 <p class="fr-book-author">By Bryan A. Garner</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Commercial correspondence, Business writing, Business life &amp; skills, Writing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ For increasing reading speed, that makes the executive summary one of the most v
 <a href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The McKinsey mind">The McKinsey mind</a>
 </h4>
 <p class="fr-book-author">By Ethan M. Rasiel, Paul N. Friga</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Business, Business consultants, Industrial management, Management, McKinsey and Company.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -513,7 +513,7 @@ For increasing reading speed, that makes the executive summary one of the most v
 <a href="https://www.amazon.com/s?k=Bulletproof+Problem+Solving+Charles+Conn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bulletproof Problem Solving">Bulletproof Problem Solving</a>
 </h4>
 <p class="fr-book-author">By Charles Conn, Robert McLean</p>
-        
+
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bulletproof+Problem+Solving+Charles+Conn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

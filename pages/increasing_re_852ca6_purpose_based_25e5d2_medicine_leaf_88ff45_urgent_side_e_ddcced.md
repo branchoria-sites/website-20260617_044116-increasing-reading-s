@@ -383,7 +383,7 @@ When scanning a medicine leaflet, do not attempt to memorise every listed side e
           <a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mayo Clinic family health book">Mayo Clinic family health book</a>
         </h4>
         <p class="fr-book-author">By David E. Larson, Mayo Clinic. et al.</p>
-        
+
         <p class="fr-book-desc">Covers warning signs and emergency medical situations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ When scanning a medicine leaflet, do not attempt to memorise every listed side e
           <a href="https://www.amazon.com/s?k=The+Survival+Medicine+Handbook+Joseph+Alton+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Survival Medicine Handbook">The Survival Medicine Handbook</a>
         </h4>
         <p class="fr-book-author">By Joseph Alton MD, Amy Alton APRN</p>
-        
+
         <p class="fr-book-desc">Encourages recognition of serious symptoms requiring action.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Survival+Medicine+Handbook+Joseph+Alton+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ When scanning a medicine leaflet, do not attempt to memorise every listed side e
           <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
         </h4>
         <p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: BUSINESS &amp; ECONOMICS / Skills, Interpersonal communication, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Prob...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ When scanning a medicine leaflet, do not attempt to memorise every listed side e
           <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effective Executive">The Effective Executive</a>
         </h4>
         <p class="fr-book-author">By Peter F Drucker</p>
-        
+
         <p class="fr-book-desc">First published 1967.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

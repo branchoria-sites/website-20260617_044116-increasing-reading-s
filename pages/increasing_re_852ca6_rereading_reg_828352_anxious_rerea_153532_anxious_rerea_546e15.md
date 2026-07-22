@@ -431,7 +431,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains why confidence and accuracy can diverge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
           <a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brain Lock">Brain Lock</a>
         </h4>
         <p class="fr-book-author">By Jeffrey M. Schwartz</p>
-        
+
         <p class="fr-book-desc">Closely matches the distinction between understanding and reassurance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
           <a href="https://www.amazon.com/s?k=The+Imp+of+the+Mind+Lee+Baer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Imp of the Mind">The Imp of the Mind</a>
         </h4>
         <p class="fr-book-author">By Lee Baer</p>
-        
+
         <p class="fr-book-desc">Focuses on uncertainty and repeated checking without new information.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Imp+of+the+Mind+Lee+Baer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -482,7 +482,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
           <a href="https://www.amazon.com/s?k=The+Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Mind">The Reading Mind</a>
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
         <p class="fr-book-desc">Connects comprehension, metacognition, and reading performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

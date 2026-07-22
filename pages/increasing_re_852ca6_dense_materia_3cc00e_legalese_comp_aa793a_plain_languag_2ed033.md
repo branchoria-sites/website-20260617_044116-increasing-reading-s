@@ -375,7 +375,7 @@ For the specific goal of increasing reading speed, the evidence from contract dr
           <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal writing in plain English">Legal writing in plain English</a>
         </h4>
         <p class="fr-book-author">By Bryan A. Garner</p>
-        
+
         <p class="fr-book-desc">Directly addresses replacing legalese with clearer language while preserving legal effectiveness and precision.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For the specific goal of increasing reading speed, the evidence from contract dr
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
         </h4>
         <p class="fr-book-author">By Kenneth A. Adams</p>
-        
+
         <p class="fr-book-desc">Focuses specifically on contract language, challenging traditional drafting habits and promoting clearer alternatives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For the specific goal of increasing reading speed, the evidence from contract dr
           <a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Plain English for lawyers">Plain English for lawyers</a>
         </h4>
         <p class="fr-book-author">By Richard C. Wydick</p>
-        
+
         <p class="fr-book-desc">A foundational work advocating clearer legal communication and reduced reliance on dense legal wording.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For the specific goal of increasing reading speed, the evidence from contract dr
           <a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clarity for Lawyers: Effective Legal Language">Clarity for Lawyers: Effective Legal Language</a>
         </h4>
         <p class="fr-book-author">By Mark Adler and Daphne Perry</p>
-        
+
         <p class="fr-book-desc">Examines the myths and realities of legalese versus plain language in legal documents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

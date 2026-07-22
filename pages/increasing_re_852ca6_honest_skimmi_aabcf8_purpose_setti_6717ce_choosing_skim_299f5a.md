@@ -489,7 +489,7 @@ The most effective skim questions are narrow enough to guide attention but broad
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Shows how focused objectives improve retention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -506,7 +506,7 @@ The most effective skim questions are narrow enough to guide attention but broad
           <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Take Smart Notes">How to Take Smart Notes</a>
         </h4>
         <p class="fr-book-author">By Sönke Ahrens</p>
-        
+
         <p class="fr-book-desc">Encourages reading with specific questions in mind.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -523,7 +523,7 @@ The most effective skim questions are narrow enough to guide attention but broad
           <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
         </h4>
         <p class="fr-book-author">By Barbara A. Oakley</p>
-        
+
         <p class="fr-book-desc">Explains attention management and strategic learning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

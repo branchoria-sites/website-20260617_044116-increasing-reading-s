@@ -454,7 +454,7 @@ That question aligns reading speed with the outcome that matters most: preservin
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
 </h4>
 <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
 <p class="fr-book-desc">Explains retrieval practice and testing comprehension rather than relying on familiarity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -471,7 +471,7 @@ That question aligns reading speed with the outcome that matters most: preservin
 <a href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning how to Learn">Learning how to Learn</a>
 </h4>
 <p class="fr-book-author">By Barbara A. Oakley, Terrence Joseph Sejnowski et al.</p>
-        
+
 <p class="fr-book-desc">Helps readers monitor understanding and retain key ideas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -488,7 +488,7 @@ That question aligns reading speed with the outcome that matters most: preservin
 <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
 </h4>
 <p class="fr-book-author">By Daniel T. Willingham</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

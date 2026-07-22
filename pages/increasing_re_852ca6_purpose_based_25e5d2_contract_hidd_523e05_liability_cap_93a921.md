@@ -456,7 +456,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
         </h4>
         <p class="fr-book-author">By Kenneth A. Adams</p>
-        
+
         <p class="fr-book-desc">Directly covers liability caps, indemnities, remedies, warranties, exclusions, and how contractual language changes outcomes after breach.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -473,7 +473,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
           <a href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tech contracts handbook">The tech contracts handbook</a>
         </h4>
         <p class="fr-book-author">By David W. Tollen</p>
-        
+
         <p class="fr-book-desc">Explains limitation-of-liability clauses, indemnities, warranties, damages, and risk allocation in plain language.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -490,7 +490,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
           <a href="https://www.amazon.com/s?k=Getting+to+yes+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting to yes">Getting to yes</a>
         </h4>
         <p class="fr-book-author">By Roger Fisher</p>
-        
+
         <p class="fr-book-desc">Useful for understanding how liability caps, indemnities, and risk allocation are negotiated before contracts are signed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Getting+to+yes+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -507,7 +507,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
           <a href="https://www.amazon.com/s?k=Contracts+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contracts">Contracts</a>
         </h4>
         <p class="fr-book-author">By Richard Stim</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Contracts, Popular works, Contracts, united states, Small business, Reference.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Contracts+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

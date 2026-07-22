@@ -439,7 +439,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
           <a href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
         </h4>
         <p class="fr-book-author">By Adam Grant</p>
-        
+
         <p class="fr-book-desc">Directly addresses overconfidence and rethinking assumptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains cognitive shortcuts and prediction errors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -473,7 +473,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
         </h4>
         <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
-        
+
         <p class="fr-book-desc">Shows how familiarity can create mistaken confidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -490,7 +490,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
           <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
         </h4>
         <p class="fr-book-author">By Julia Galef</p>
-        
+
         <p class="fr-book-desc">Encourages checking assumptions instead of relying on familiarity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

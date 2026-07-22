@@ -394,7 +394,7 @@ Fast readers often assume their greatest risk lies in difficult passages. In rea
           <a href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
         </h4>
         <p class="fr-book-author">By Adam Grant</p>
-        
+
         <p class="fr-book-desc">Challenges the assumption that familiarity equals understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Think+Again+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Fast readers often assume their greatest risk lies in difficult passages. In rea
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
         </h4>
         <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
-        
+
         <p class="fr-book-desc">Focuses on common thinking errors caused by familiarity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Fast readers often assume their greatest risk lies in difficult passages. In rea
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
+
         <p class="fr-book-desc">Distinguishes feeling fluent from actually learning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ Fast readers often assume their greatest risk lies in difficult passages. In rea
           <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scout Mindset">Scout Mindset</a>
         </h4>
         <p class="fr-book-author">By Julia Galef</p>
-        
+
         <p class="fr-book-desc">Promotes testing beliefs rather than trusting recognition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scout+Mindset+Julia+Galef&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

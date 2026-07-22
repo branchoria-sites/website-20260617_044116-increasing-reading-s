@@ -513,30 +513,13 @@ This aligns with broader findings on reading fluency, where effective readers pr
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Covers verb phrases, tenses, auxiliaries, and multi-word verb constructions that readers must recognise as single action units.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical English Usage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5295458-M.jpg" alt="Cover for Practical English Usage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical English Usage">Practical English Usage</a>
         </h4>
         <p class="fr-book-author">By Michael Swan</p>
-        
+
         <p class="fr-book-desc">Explains how English grammar works in real usage, including tense systems, auxiliary verbs, and verb phrase patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -553,7 +536,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
           <a href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blue Book of Grammar and Punctuation">The Blue Book of Grammar and Punctuation</a>
         </h4>
         <p class="fr-book-author">By Jane Straus</p>
-        
+
         <p class="fr-book-desc">Helps readers identify grammatical structures quickly, supporting more fluent processing of sentence-level meaning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -570,7 +553,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
           <a href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Grammar">Natural Grammar</a>
         </h4>
         <p class="fr-book-author">By Scott Thornbury</p>
-        
+
         <p class="fr-book-desc">Focuses on common word combinations and structures, encouraging chunked reading rather than word-by-word decoding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -579,9 +562,26 @@ This aligns with broader findings on reading fluency, where effective readers pr
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Builds practical understanding of phrases, clauses, subjects, and sentence construction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+English+Usage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Blue Book of Grammar and Punctuation</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+English+Usage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Blue Book of Grammar and Punctuation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Natural+Grammar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Natural Grammar</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
