@@ -501,16 +501,16 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contracts+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contracts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12758643-M.jpg" alt="Cover for Contracts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Contracts%3A+The+Essential+Business+Desk+Reference+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Contracts: The Essential Business Desk Reference on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12758643-M.jpg" alt="Cover for Contracts: The Essential Business Desk Reference" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Contracts+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contracts">Contracts</a>
+          <a href="https://www.amazon.com/s?k=Contracts%3A+The+Essential+Business+Desk+Reference+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Contracts: The Essential Business Desk Reference">Contracts: The Essential Business Desk Reference</a>
         </h4>
         <p class="fr-book-author">By Richard Stim</p>
 
-        <p class="fr-book-desc">First published 2011. Subjects: Contracts, Popular works, Contracts, united states, Small business, Reference.</p>
+        <p class="fr-book-desc">Helps readers understand contract obligations, remedies, breach consequences, and key protective clauses.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Contracts+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Contracts%3A+The+Essential+Business+Desk+Reference+Richard+Stim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
