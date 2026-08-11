@@ -358,89 +358,89 @@ For the specific goal of increasing reading speed, the evidence from contract dr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Plain-Language Contracts Work Just as Well?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Plain-Language Contracts Work Just as Well?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legal writing in plain English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13173529-M.jpg" alt="Cover for Legal writing in plain English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal writing in plain English">Legal writing in plain English</a>
-        </h4>
-        <p class="fr-book-author">By Bryan A. Garner</p>
-
-        <p class="fr-book-desc">Directly addresses replacing legalese with clearer language while preserving legal effectiveness and precision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legal writing in plain English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13173529-M.jpg" alt="Cover for Legal writing in plain English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal writing in plain English">Legal writing in plain English</a>
+</h4>
+<p class="fr-book-author">By Bryan A. Garner</p>
+        
+<p class="fr-book-desc">Directly addresses replacing legalese with clearer language while preserving legal effectiveness and precision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth A. Adams</p>
-
-        <p class="fr-book-desc">Focuses specifically on contract language, challenging traditional drafting habits and promoting clearer alternatives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
+</h4>
+<p class="fr-book-author">By Kenneth A. Adams</p>
+        
+<p class="fr-book-desc">Focuses specifically on contract language, challenging traditional drafting habits and promoting clearer alternatives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Plain English for lawyers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/687971-M.jpg" alt="Cover for Plain English for lawyers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Plain English for lawyers">Plain English for lawyers</a>
-        </h4>
-        <p class="fr-book-author">By Richard C. Wydick</p>
-
-        <p class="fr-book-desc">A foundational work advocating clearer legal communication and reduced reliance on dense legal wording.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Plain English for lawyers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/687971-M.jpg" alt="Cover for Plain English for lawyers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Plain English for lawyers">Plain English for lawyers</a>
+</h4>
+<p class="fr-book-author">By Richard C. Wydick</p>
+        
+<p class="fr-book-desc">A foundational work advocating clearer legal communication and reduced reliance on dense legal wording.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clarity for Lawyers: Effective Legal Language on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clarity for Lawyers: Effective Legal Language">Clarity for Lawyers: Effective Legal Language</a>
-        </h4>
-        <p class="fr-book-author">By Mark Adler and Daphne Perry</p>
-
-        <p class="fr-book-desc">Examines the myths and realities of legalese versus plain language in legal documents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clarity for Lawyers: Effective Legal Language on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clarity for Lawyers: Effective Legal Language">Clarity for Lawyers: Effective Legal Language</a>
+</h4>
+<p class="fr-book-author">By Mark Adler and Daphne Perry</p>
+        
+<p class="fr-book-desc">Examines the myths and realities of legalese versus plain language in legal documents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legal writing in plain English</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Plain+English+for+lawyers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Plain English for lawyers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legal writing in plain English</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Plain+English+for+lawyers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Plain English for lawyers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

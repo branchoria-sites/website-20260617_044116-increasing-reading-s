@@ -539,7 +539,7 @@ When a regression answers a specific question, it supports comprehension. When i
 <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
 </h4>
 <p class="fr-book-author">By Maryanne Wolf</p>
-
+        
 <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -556,7 +556,7 @@ When a regression answers a specific question, it supports comprehension. When i
 <a href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outsmart Your Brain">Outsmart Your Brain</a>
 </h4>
 <p class="fr-book-author">By Daniel T. Willingham</p>
-
+        
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -573,7 +573,7 @@ When a regression answers a specific question, it supports comprehension. When i
 <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Explains the cognitive science of reading, comprehension, and attention.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

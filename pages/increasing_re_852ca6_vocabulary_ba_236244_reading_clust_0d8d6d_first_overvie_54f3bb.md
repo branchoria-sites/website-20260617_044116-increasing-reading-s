@@ -437,7 +437,7 @@ In a reading cluster designed to increase reading speed, that transition is the 
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
 </h4>
 <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-
+        
 <p class="fr-book-desc">Explains knowledge structures that help later reading become easier.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -454,7 +454,7 @@ In a reading cluster designed to increase reading speed, that transition is the 
 <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
 </h4>
 <p class="fr-book-author">By Barbara A. Oakley</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -471,7 +471,7 @@ In a reading cluster designed to increase reading speed, that transition is the 
 <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
 </h4>
 <p class="fr-book-author">By Jonathan A. Levi</p>
-
+        
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

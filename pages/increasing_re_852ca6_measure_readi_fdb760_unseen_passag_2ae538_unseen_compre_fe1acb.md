@@ -430,7 +430,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
 </h4>
 <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-
+        
 <p class="fr-book-desc">Supports meaningful retention rather than superficial speed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
 <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
 </h4>
 <p class="fr-book-author">By Jennifer Serravallo</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -464,7 +464,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
 <a href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Reconsidered">Reading Reconsidered</a>
 </h4>
 <p class="fr-book-author">By Doug Lemov, Colleen Driggs et al.</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Reading, Reading comprehension, Correlation with content subjects, Language arts, EDUCATION / Teaching Me...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

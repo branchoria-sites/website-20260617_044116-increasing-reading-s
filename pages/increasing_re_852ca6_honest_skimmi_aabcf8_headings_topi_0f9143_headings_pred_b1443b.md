@@ -476,7 +476,7 @@ When headings accurately predict an argument, they do more than divide a documen
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
 </h4>
 <p class="fr-book-author">By Daniel Kahneman</p>
-
+        
 <p class="fr-book-desc">Provides cognitive context for prediction and interpretation while reading.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ When headings accurately predict an argument, they do more than divide a documen
 <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
 </h4>
 <p class="fr-book-author">By Barbara Minto</p>
-
+        
 <p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -510,7 +510,7 @@ When headings accurately predict an argument, they do more than divide a documen
 <a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;They Say / I Say&quot;">&quot;They Say / I Say&quot;</a>
 </h4>
 <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Report writing, Rhetoric, English language, Persuasion (Rhetoric).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

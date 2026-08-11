@@ -434,7 +434,7 @@ For challenging texts, the fastest route is often the one that keeps working mem
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
 </h4>
 <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-
+        
 <p class="fr-book-desc">Explains memory limitations and effective information processing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ For challenging texts, the fastest route is often the one that keeps working mem
 <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
 </h4>
 <p class="fr-book-author">By Cal Newport</p>
-
+        
 <p class="fr-book-desc">Addresses attention control that helps avoid rereading loops.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ For challenging texts, the fastest route is often the one that keeps working mem
 <a href="https://www.amazon.com/s?k=Working+Memory%2C+Thought%2C+and+Action+Alan+Baddeley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working Memory, Thought, and Action">Working Memory, Thought, and Action</a>
 </h4>
 <p class="fr-book-author">By Alan Baddeley</p>
-
+        
 <p class="fr-book-desc">First published 2007. Subjects: Memory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Working+Memory%2C+Thought%2C+and+Action+Alan+Baddeley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -485,7 +485,7 @@ For challenging texts, the fastest route is often the one that keeps working mem
 <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
 </h4>
 <p class="fr-book-author">By Daniel T. Willingham</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -431,7 +431,7 @@ This combination separates understanding of the main idea from understanding of 
 <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
 </h4>
 <p class="fr-book-author">By Mark Seidenberg</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ This combination separates understanding of the main idea from understanding of 
 <a href="https://www.amazon.com/s?k=The+Writing+Revolution+Judith+C.+Hochman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Writing Revolution">The Writing Revolution</a>
 </h4>
 <p class="fr-book-author">By Judith C. Hochman, Natalie Wexler et al.</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Academic writing, Critical thinking, Écriture savante, Pensée critique, Literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Writing+Revolution+Judith+C.+Hochman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ This combination separates understanding of the main idea from understanding of 
 <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
 </h4>
 <p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -441,7 +441,7 @@ By treating inference accuracy as the primary measure and words per minute as th
 <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
 </h4>
 <p class="fr-book-author">By Stanislas Dehaene</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ By treating inference accuracy as the primary measure and words per minute as th
 <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
 </h4>
 <p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ By treating inference accuracy as the primary measure and words per minute as th
 <a href="https://www.amazon.com/s?k=Know+Better%2C+Do+Better+%3A+Comprehension+David+Liben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Know Better, Do Better : Comprehension">Know Better, Do Better : Comprehension</a>
 </h4>
 <p class="fr-book-author">By David Liben, Meredith Liben</p>
-
+        
 <p class="fr-book-desc">First published 2024.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Know+Better%2C+Do+Better+%3A+Comprehension+David+Liben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
