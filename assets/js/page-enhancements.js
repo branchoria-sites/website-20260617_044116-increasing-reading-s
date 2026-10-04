@@ -3354,24 +3354,49 @@
     var pathParts = normalizePath(window.location.pathname).split("/").filter(Boolean);
     var siteScope = pathParts.length ? pathParts[0] : "root";
 
-    Array.prototype.forEach.call(containers, function (container, containerIndex) {
-      var tree = container.querySelector("[data-home-vertical-tree]");
-      var dataNode = container.querySelector("[data-home-vertical-data]");
-      if (!tree || !dataNode) {
+    function loadExternalVerticalPayload(url, done) {
+      var finish = function (text) {
+        var parsed = {};
+        try {
+          parsed = JSON.parse(String(text || "{}"));
+        } catch (err) {
+          parsed = {};
+        }
+        done(parsed);
+      };
+      if (typeof window.fetch === "function") {
+        window.fetch(url, { credentials: "same-origin" }).then(function (res) {
+          if (!res.ok) {
+            throw new Error("Failed to load " + url);
+          }
+          return res.text();
+        }).then(finish).catch(function () {
+          done({});
+        });
         return;
       }
-
-      var payload = {};
       try {
-        payload = JSON.parse(String(dataNode.textContent || "{}"));
+        var xhr = new XMLHttpRequest();
+        xhr.open("GET", url, true);
+        xhr.onload = function () {
+          finish(xhr.status >= 200 && xhr.status < 300 ? xhr.responseText : "{}");
+        };
+        xhr.onerror = function () {
+          done({});
+        };
+        xhr.send();
       } catch (err) {
-        payload = {};
+        done({});
       }
+    }
+
+    function renderVerticalView(container, tree, dataNode, siteScope, containerIndex, payload) {
       var nodes = Array.isArray(payload.nodes) ? payload.nodes.slice() : [];
       if (!nodes.length) {
         tree.hidden = true;
         return;
       }
+
 
       var nodeById = {};
       var childrenByParent = {};
@@ -4113,6 +4138,34 @@
       }
 
       render();
+    }
+
+    Array.prototype.forEach.call(containers, function (container, containerIndex) {
+      var tree = container.querySelector("[data-home-vertical-tree]");
+      var dataNode = container.querySelector("[data-home-vertical-data]");
+      if (!tree || !dataNode) {
+        return;
+      }
+
+      var payload = {};
+      try {
+        payload = JSON.parse(String(dataNode.textContent || "{}"));
+      } catch (err) {
+        payload = {};
+      }
+      if (!Array.isArray(payload.nodes) || !payload.nodes.length) {
+        var srcAttr = String(dataNode.getAttribute("data-home-vertical-src") || "").trim();
+        if (srcAttr && dataNode.getAttribute("data-home-vertical-src-state") !== "loading") {
+          dataNode.setAttribute("data-home-vertical-src-state", "loading");
+          loadExternalVerticalPayload(srcAttr, function (remote) {
+            dataNode.setAttribute("data-home-vertical-src-state", "done");
+            renderVerticalView(container, tree, dataNode, siteScope, containerIndex, remote || {});
+          });
+          return;
+        }
+        payload = {};
+      }
+      renderVerticalView(container, tree, dataNode, siteScope, containerIndex, payload);
     });
   }
 
