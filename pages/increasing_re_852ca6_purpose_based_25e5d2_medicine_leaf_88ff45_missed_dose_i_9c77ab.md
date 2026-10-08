@@ -267,6 +267,7 @@ next_link:
   short_title: Urgent Effects
   heading_title: Which Side Effects Mean You Should Act Now?
 date: '2026-06-17 02:43:28 '
+last_modified_at: '2026-06-17 02:43:28 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_missed_dose_i_9c77ab-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45_missed_dose_i_9c77ab-Illustration-1.webp

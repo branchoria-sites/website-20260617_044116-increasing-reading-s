@@ -267,6 +267,7 @@ next_link:
   short_title: Slow Read Sections
   heading_title: Which Parts of a Contract Should You Never Skim?
 date: '2026-06-17 01:11:36 '
+last_modified_at: '2026-06-17 01:11:36 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_plain_languag_2ed033-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_plain_languag_2ed033-Illustration-1.webp

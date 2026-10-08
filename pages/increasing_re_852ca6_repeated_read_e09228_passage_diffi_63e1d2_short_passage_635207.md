@@ -267,6 +267,7 @@ next_link:
   short_title: Poor fit signs
   heading_title: When rereading turns into repeated struggling
 date: '2026-06-17 03:19:51 '
+last_modified_at: '2026-06-17 03:19:51 '
 header:
   og_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2_short_passage_635207-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2_short_passage_635207-Illustration-1.webp

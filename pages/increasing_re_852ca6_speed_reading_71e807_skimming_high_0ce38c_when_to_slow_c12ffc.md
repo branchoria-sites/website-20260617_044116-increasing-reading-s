@@ -261,6 +261,7 @@ prev_link:
   short_title: Exceptions
   heading_title: The Contract Words Skimmers Miss Most
 date: '2026-06-17 00:59:45 '
+last_modified_at: '2026-06-17 00:59:45 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_when_to_slow_c12ffc-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_when_to_slow_c12ffc-Illustration-1.webp

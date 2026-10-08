@@ -267,6 +267,7 @@ next_link:
   short_title: Window Tests
   heading_title: The Experiment That Shrinks Speed Reading Claims
 date: '2026-06-17 03:57:40 '
+last_modified_at: '2026-06-17 03:57:40 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_parafoveal_pr_510596-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_parafoveal_pr_510596-Illustration-1.webp

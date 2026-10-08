@@ -267,6 +267,7 @@ next_link:
   short_title: Word Depth
   heading_title: Why Knowing a Word Is Not Enough
 date: '2026-06-17 04:29:16 '
+last_modified_at: '2026-06-17 04:29:16 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_rare_words_re_32b9f3-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_rare_words_re_32b9f3-Illustration-1.webp

@@ -280,6 +280,7 @@ prev_link:
   short_title: Known Words
   heading_title: Why Familiar Words Read Faster
 date: '2026-06-16 23:33:43 '
+last_modified_at: '2026-06-16 23:33:43 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d-Illustration-1.webp

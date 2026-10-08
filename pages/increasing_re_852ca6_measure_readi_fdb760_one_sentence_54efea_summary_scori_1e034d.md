@@ -261,6 +261,7 @@ prev_link:
   short_title: Main idea
   heading_title: Did your summary catch the real point?
 date: '2026-06-17 00:25:15 '
+last_modified_at: '2026-06-17 00:25:15 '
 header:
   og_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_summary_scori_1e034d-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_summary_scori_1e034d-Illustration-1.webp

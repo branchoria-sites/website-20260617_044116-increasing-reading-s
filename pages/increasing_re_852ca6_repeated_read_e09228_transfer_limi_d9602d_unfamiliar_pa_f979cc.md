@@ -267,6 +267,7 @@ next_link:
   short_title: Wide reading
   heading_title: When Wide Reading Should Replace More Rereading
 date: '2026-06-17 03:31:50 '
+last_modified_at: '2026-06-17 03:31:50 '
 header:
   og_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-1.webp

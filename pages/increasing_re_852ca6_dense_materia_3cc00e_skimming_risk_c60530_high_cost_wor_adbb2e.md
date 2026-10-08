@@ -261,6 +261,7 @@ next_link:
   short_title: Risky Texts
   heading_title: Which Documents Are Too Risky to Skim?
 date: '2026-06-17 01:22:44 '
+last_modified_at: '2026-06-17 01:22:44 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_high_cost_wor_adbb2e-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_high_cost_wor_adbb2e-Illustration-1.webp

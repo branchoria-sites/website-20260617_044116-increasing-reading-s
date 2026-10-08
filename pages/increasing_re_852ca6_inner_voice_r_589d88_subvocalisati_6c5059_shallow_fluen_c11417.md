@@ -267,6 +267,7 @@ next_link:
   short_title: Technical Prose
   heading_title: When Technical Text Needs the Inner Voice
 date: '2026-06-17 01:50:27 '
+last_modified_at: '2026-06-17 01:50:27 '
 header:
   og_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_shallow_fluen_c11417-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_shallow_fluen_c11417-Illustration-1.webp

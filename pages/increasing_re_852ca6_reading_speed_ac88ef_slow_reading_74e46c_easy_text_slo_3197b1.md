@@ -267,6 +267,7 @@ next_link:
   short_title: Rereading
   heading_title: Is rereading helping or holding you back?
 date: '2026-06-17 00:45:35 '
+last_modified_at: '2026-06-17 00:45:35 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_easy_text_slo_3197b1-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_easy_text_slo_3197b1-Illustration-1.webp

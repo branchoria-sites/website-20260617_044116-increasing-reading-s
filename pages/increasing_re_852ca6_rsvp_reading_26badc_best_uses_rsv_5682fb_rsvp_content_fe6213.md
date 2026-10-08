@@ -267,6 +267,7 @@ next_link:
   short_title: Small Screens
   heading_title: Why RSVP Fits Tiny Screens Better Than Pages
 date: '2026-06-16 23:44:22 '
+last_modified_at: '2026-06-16 23:44:22 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-1.webp

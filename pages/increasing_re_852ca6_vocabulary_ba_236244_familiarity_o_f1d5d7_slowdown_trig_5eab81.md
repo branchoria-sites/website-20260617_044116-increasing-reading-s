@@ -261,6 +261,7 @@ prev_link:
   short_title: Missed Caveats
   heading_title: The Small Words Fast Readers Miss
 date: '2026-06-17 04:26:08 '
+last_modified_at: '2026-06-17 04:26:08 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_slowdown_trig_5eab81-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_slowdown_trig_5eab81-Illustration-1.webp

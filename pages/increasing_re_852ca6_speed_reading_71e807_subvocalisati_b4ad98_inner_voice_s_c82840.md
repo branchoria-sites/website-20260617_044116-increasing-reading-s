@@ -267,6 +267,7 @@ next_link:
   short_title: Suppression Risk
   heading_title: The Hidden Cost of Silencing Words
 date: '2026-06-17 04:11:45 '
+last_modified_at: '2026-06-17 04:11:45 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_voice_s_c82840-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_voice_s_c82840-Illustration-1.webp

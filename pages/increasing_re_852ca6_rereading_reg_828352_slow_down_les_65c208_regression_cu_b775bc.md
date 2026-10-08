@@ -267,6 +267,7 @@ next_link:
   short_title: Memory Load
   heading_title: When Fast Reading Creates Rereading Loops
 date: '2026-06-17 03:51:07 '
+last_modified_at: '2026-06-17 03:51:07 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Long Words
   heading_title: Why Long Words Make Reading Feel Slower
 date: '2026-06-17 02:57:16 '
+last_modified_at: '2026-06-17 02:57:16 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_careful_readi_bf6303-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_careful_readi_bf6303-Illustration-1.webp

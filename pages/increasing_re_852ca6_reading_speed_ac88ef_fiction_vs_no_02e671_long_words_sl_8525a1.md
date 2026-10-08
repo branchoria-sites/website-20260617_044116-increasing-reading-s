@@ -267,6 +267,7 @@ next_link:
   short_title: Rereading
   heading_title: Why Non Fiction Sends Your Eyes Back
 date: '2026-06-17 02:58:40 '
+last_modified_at: '2026-06-17 02:58:40 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_long_words_sl_8525a1-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_fiction_vs_no_02e671_long_words_sl_8525a1-Illustration-1.webp

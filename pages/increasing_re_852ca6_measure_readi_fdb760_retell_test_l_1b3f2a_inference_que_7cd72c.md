@@ -267,6 +267,7 @@ next_link:
   short_title: Nonfiction Retells
   heading_title: Why nonfiction is harder to retell well
 date: '2026-06-17 02:01:14 '
+last_modified_at: '2026-06-17 02:01:14 '
 header:
   og_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-1.webp

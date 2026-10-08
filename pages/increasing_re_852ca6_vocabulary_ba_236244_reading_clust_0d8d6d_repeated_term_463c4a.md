@@ -267,6 +267,7 @@ next_link:
   short_title: Why random hard reading stays slow
   heading_title: Why random hard reading stays slow
 date: '2026-06-17 04:34:13 '
+last_modified_at: '2026-06-17 04:34:13 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_repeated_term_463c4a-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_repeated_term_463c4a-Illustration-1.webp

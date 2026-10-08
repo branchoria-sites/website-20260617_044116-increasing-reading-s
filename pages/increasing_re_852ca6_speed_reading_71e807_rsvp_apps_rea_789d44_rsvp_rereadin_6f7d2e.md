@@ -267,6 +267,7 @@ next_link:
   short_title: Speed Claims
   heading_title: Does RSVP Speed Feel Faster Than It Is?
 date: '2026-06-17 04:05:25 '
+last_modified_at: '2026-06-17 04:05:25 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_rereadin_6f7d2e-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_rereadin_6f7d2e-Illustration-1.webp

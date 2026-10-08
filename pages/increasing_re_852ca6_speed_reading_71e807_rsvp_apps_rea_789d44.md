@@ -286,6 +286,7 @@ next_link:
   short_title: Skim risks
   heading_title: When Skimming Misses What Matters Most
 date: '2026-06-16 23:22:41 '
+last_modified_at: '2026-06-16 23:22:41 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Perceptual span
   heading_title: Why your eyes cannot read whole pages
 date: '2026-06-17 02:18:05 '
+last_modified_at: '2026-06-17 02:18:05 '
 header:
   og_image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_grouping_vs_s_ace1d0-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_grouping_vs_s_ace1d0-Illustration-1.webp

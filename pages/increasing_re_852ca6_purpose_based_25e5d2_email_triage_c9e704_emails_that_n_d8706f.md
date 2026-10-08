@@ -267,6 +267,7 @@ next_link:
   short_title: Tone Risk
   heading_title: Why blunt emails slow good readers down
 date: '2026-06-17 00:37:41 '
+last_modified_at: '2026-06-17 00:37:41 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_emails_that_n_d8706f-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_emails_that_n_d8706f-Illustration-1.webp

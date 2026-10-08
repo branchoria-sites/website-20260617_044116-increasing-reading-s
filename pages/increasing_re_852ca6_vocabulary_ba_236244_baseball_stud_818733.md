@@ -280,6 +280,7 @@ next_link:
   short_title: Domain Predic
   heading_title: How Topic Knowledge Speeds Prediction
 date: '2026-06-16 23:25:41 '
+last_modified_at: '2026-06-16 23:25:41 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733-Illustration-1.webp

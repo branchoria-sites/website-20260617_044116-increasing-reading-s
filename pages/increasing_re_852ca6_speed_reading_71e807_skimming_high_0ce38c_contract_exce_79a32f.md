@@ -267,6 +267,7 @@ next_link:
   short_title: Slow Down
   heading_title: When Fast Reading Becomes Too Risky
 date: '2026-06-17 04:08:53 '
+last_modified_at: '2026-06-17 04:08:53 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-1.webp

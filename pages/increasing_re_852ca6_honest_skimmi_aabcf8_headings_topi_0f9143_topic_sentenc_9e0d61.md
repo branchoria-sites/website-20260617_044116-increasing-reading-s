@@ -261,6 +261,7 @@ prev_link:
   short_title: Skim Outline
   heading_title: Build a Fast Outline Before Reading Closely
 date: '2026-06-17 01:35:20 '
+last_modified_at: '2026-06-17 01:35:20 '
 header:
   og_image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Schemas
   heading_title: How Knowledge Shrinks a Hard Text
 date: '2026-06-17 01:08:10 '
+last_modified_at: '2026-06-17 01:08:10 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_previewing_ac_210b68-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_previewing_ac_210b68-Illustration-1.webp

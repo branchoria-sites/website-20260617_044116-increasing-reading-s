@@ -261,6 +261,7 @@ prev_link:
   short_title: Summaries vs Inference
   heading_title: Can a Good Summary Hide Weak Inference Skills?
 date: '2026-06-17 02:00:24 '
+last_modified_at: '2026-06-17 02:00:24 '
 header:
   og_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_inference_que_937286_why_questions_6e6be2-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_inference_que_937286_why_questions_6e6be2-Illustration-1.webp

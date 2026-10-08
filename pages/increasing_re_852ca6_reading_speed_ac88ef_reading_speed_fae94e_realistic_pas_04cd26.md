@@ -261,6 +261,7 @@ next_link:
   short_title: Progress tracking
   heading_title: Is your reading speed actually improving?
 date: '2026-06-17 03:02:11 '
+last_modified_at: '2026-06-17 03:02:11 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e_realistic_pas_04cd26-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e_realistic_pas_04cd26-Illustration-1.webp

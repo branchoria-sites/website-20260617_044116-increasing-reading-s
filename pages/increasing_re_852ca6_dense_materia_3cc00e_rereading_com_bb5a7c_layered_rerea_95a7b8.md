@@ -267,6 +267,7 @@ next_link:
   short_title: Sentence repair
   heading_title: Why one backward glance can save a sentence
 date: '2026-06-17 01:18:03 '
+last_modified_at: '2026-06-17 01:18:03 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_layered_rerea_95a7b8-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_layered_rerea_95a7b8-Illustration-1.webp

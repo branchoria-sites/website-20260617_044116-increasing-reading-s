@@ -261,6 +261,7 @@ next_link:
   short_title: Plain Contracts
   heading_title: Do Plain Language Contracts Work Just as Well?
 date: '2026-06-17 01:11:03 '
+last_modified_at: '2026-06-17 01:11:03 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Liability caps
   heading_title: What happens when the promise breaks
 date: '2026-06-17 02:34:17 '
+last_modified_at: '2026-06-17 02:34:17 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_definitions_e_bf03fb-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_definitions_e_bf03fb-Illustration-1.webp

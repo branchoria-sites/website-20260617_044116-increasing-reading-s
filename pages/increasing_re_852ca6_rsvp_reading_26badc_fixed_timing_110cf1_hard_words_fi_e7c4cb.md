@@ -267,6 +267,7 @@ next_link:
   short_title: Speed Tradeoff
   heading_title: When Faster Words Mean Less Understanding
 date: '2026-06-16 23:47:01 '
+last_modified_at: '2026-06-16 23:47:01 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_hard_words_fi_e7c4cb-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_hard_words_fi_e7c4cb-Illustration-1.webp

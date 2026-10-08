@@ -261,6 +261,7 @@ next_link:
   short_title: Eye tradeoff
   heading_title: The hidden cost of stopping eye movements
 date: '2026-06-16 23:54:02 '
+last_modified_at: '2026-06-16 23:54:02 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-1.webp

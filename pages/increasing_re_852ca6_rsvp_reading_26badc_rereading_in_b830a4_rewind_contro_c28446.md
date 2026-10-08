@@ -261,6 +261,7 @@ prev_link:
   short_title: Dense texts
   heading_title: Why hard texts punish forced forward reading
 date: '2026-06-16 23:55:36 '
+last_modified_at: '2026-06-16 23:55:36 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-1.webp

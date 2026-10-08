@@ -267,6 +267,7 @@ next_link:
   short_title: Task Accuracy
   heading_title: Why Skimming Instructions Goes Wrong
 date: '2026-06-17 02:54:33 '
+last_modified_at: '2026-06-17 02:54:33 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_reference_doc_c0a3fd-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_reference_doc_c0a3fd-Illustration-1.webp

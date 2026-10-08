@@ -267,6 +267,7 @@ next_link:
   short_title: Schemas
   heading_title: Why familiar topics feel easier to read
 date: '2026-06-17 04:20:40 '
+last_modified_at: '2026-06-17 04:20:40 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-1.webp

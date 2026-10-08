@@ -267,6 +267,7 @@ next_link:
   short_title: Useful skims
   heading_title: When Fast Skimming Is the Right Tool
 date: '2026-06-17 03:09:04 '
+last_modified_at: '2026-06-17 03:09:04 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-1.webp

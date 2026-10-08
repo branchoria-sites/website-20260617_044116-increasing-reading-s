@@ -267,6 +267,7 @@ next_link:
   short_title: Summaries
   heading_title: Can the Executive Summary Carry the Decision?
 date: '2026-06-17 02:47:10 '
+last_modified_at: '2026-06-17 02:47:10 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_decision_char_4864d1-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_decision_char_4864d1-Illustration-1.webp

@@ -286,6 +286,7 @@ next_link:
   short_title: Easy Trap
   heading_title: When Familiar Topics Make You Too Fast
 date: '2026-06-16 23:28:26 '
+last_modified_at: '2026-06-16 23:28:26 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3-Illustration-1.webp

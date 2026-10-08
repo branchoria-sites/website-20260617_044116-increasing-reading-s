@@ -261,6 +261,7 @@ next_link:
   short_title: Medicine labels
   heading_title: The small print that keeps medicine safe
 date: '2026-06-17 00:06:46 '
+last_modified_at: '2026-06-17 00:06:46 '
 header:
   og_image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_contract_skim_73495c-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_skimming_too_c78f11_contract_skim_73495c-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Easy Texts
   heading_title: Why do easy texts still feel hard?
 date: '2026-06-17 00:43:35 '
+last_modified_at: '2026-06-17 00:43:35 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_comprehension_8dbbb4-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_comprehension_8dbbb4-Illustration-1.webp

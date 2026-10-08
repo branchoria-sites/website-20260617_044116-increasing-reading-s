@@ -261,6 +261,7 @@ prev_link:
   short_title: Rereading
   heading_title: Why Word Flashing Makes Backtracking So Hard
 date: '2026-06-17 04:08:55 '
+last_modified_at: '2026-06-17 04:08:55 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-1.webp

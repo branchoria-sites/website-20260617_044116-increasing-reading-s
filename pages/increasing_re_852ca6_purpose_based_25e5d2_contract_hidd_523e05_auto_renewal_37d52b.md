@@ -261,6 +261,7 @@ next_link:
   short_title: Definitions
   heading_title: The small definitions that change the whole deal
 date: '2026-06-17 00:35:45 '
+last_modified_at: '2026-06-17 00:35:45 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_auto_renewal_37d52b-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_auto_renewal_37d52b-Illustration-1.webp
