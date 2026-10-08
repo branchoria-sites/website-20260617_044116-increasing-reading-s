@@ -286,6 +286,7 @@ next_link:
   short_title: Visual span
   heading_title: Can Your Eyes Really Read Whole Lines?
 date: '2026-06-16 23:23:22 '
+last_modified_at: '2026-06-16 23:23:22 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c-Illustration-1.webp

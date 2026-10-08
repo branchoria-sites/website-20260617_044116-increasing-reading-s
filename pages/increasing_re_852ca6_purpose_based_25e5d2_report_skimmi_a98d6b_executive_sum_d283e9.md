@@ -261,6 +261,7 @@ prev_link:
   short_title: Key charts
   heading_title: Which Charts Actually Change the Decision?
 date: '2026-06-17 02:48:16 '
+last_modified_at: '2026-06-17 02:48:16 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_executive_sum_d283e9-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_executive_sum_d283e9-Illustration-1.webp

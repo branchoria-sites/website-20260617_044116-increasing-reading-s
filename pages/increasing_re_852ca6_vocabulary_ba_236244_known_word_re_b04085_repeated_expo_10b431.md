@@ -261,6 +261,7 @@ next_link:
   short_title: Rare Words
   heading_title: Why One Hard Word Can Stop Reading
 date: '2026-06-17 04:31:11 '
+last_modified_at: '2026-06-17 04:31:11 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-1.webp

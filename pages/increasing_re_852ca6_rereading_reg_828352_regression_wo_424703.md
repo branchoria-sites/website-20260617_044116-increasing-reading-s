@@ -280,6 +280,7 @@ prev_link:
   short_title: Slow First
   heading_title: Why Slower Reading Can Finish Faster
 date: '2026-06-16 23:16:21 '
+last_modified_at: '2026-06-16 23:16:21 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703-Illustration-1.webp

@@ -261,6 +261,7 @@ prev_link:
   short_title: Hard Vocabulary
   heading_title: Why Unfamiliar Words Make Your Eyes Go Back
 date: '2026-06-17 03:44:25 '
+last_modified_at: '2026-06-17 03:44:25 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_targeted_vs_h_ac4e86-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_targeted_vs_h_ac4e86-Illustration-1.webp

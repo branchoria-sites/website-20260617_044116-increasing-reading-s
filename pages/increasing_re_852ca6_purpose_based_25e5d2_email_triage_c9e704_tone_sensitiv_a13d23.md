@@ -261,6 +261,7 @@ prev_link:
   short_title: Slow Reads
   heading_title: Which emails are too risky to skim?
 date: '2026-06-17 00:39:03 '
+last_modified_at: '2026-06-17 00:39:03 '
 header:
   og_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_tone_sensitiv_a13d23-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_tone_sensitiv_a13d23-Illustration-1.webp

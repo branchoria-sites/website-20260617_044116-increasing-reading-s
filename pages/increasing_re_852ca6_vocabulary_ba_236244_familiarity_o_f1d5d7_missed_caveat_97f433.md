@@ -267,6 +267,7 @@ next_link:
   short_title: Slowdown Triggers
   heading_title: When Easy Reading Should Slow Down
 date: '2026-06-17 04:23:30 '
+last_modified_at: '2026-06-17 04:23:30 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_missed_caveat_97f433-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_missed_caveat_97f433-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Useful Rereading
   heading_title: When Rereading Is Actually Worth It
 date: '2026-06-17 04:03:05 '
+last_modified_at: '2026-06-17 04:03:05 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_dense_text_re_7397dd-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_dense_text_re_7397dd-Illustration-1.webp

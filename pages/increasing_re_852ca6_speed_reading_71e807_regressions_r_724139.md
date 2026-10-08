@@ -286,6 +286,7 @@ next_link:
   short_title: RSVP apps
   heading_title: Why Word Flashing Apps Feel Faster Than They Are
 date: '2026-06-16 23:20:00 '
+last_modified_at: '2026-06-16 23:20:00 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139-Illustration-1.webp

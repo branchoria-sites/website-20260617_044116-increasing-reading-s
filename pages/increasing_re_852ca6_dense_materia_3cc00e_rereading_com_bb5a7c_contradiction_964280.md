@@ -261,6 +261,7 @@ next_link:
   short_title: Layered passes
   heading_title: A smarter way to reread hard pages
 date: '2026-06-17 01:14:34 '
+last_modified_at: '2026-06-17 01:14:34 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_contradiction_964280-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_contradiction_964280-Illustration-1.webp

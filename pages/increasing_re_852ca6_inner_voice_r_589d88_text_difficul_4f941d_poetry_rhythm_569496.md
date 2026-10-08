@@ -261,6 +261,7 @@ prev_link:
   short_title: New concepts
   heading_title: Why new ideas slow the inner voice
 date: '2026-06-17 01:54:40 '
+last_modified_at: '2026-06-17 01:54:40 '
 header:
   og_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-1.webp

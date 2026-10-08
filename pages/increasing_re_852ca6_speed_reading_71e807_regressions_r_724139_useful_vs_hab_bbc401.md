@@ -261,6 +261,7 @@ prev_link:
   short_title: Dense Texts
   heading_title: Why Hard Texts Punish No Lookback Reading
 date: '2026-06-17 04:02:46 '
+last_modified_at: '2026-06-17 04:02:46 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-1.webp

@@ -261,6 +261,7 @@ next_link:
   short_title: Inner voice risk
   heading_title: Should you really silence the inner voice?
 date: '2026-06-17 02:30:54 '
+last_modified_at: '2026-06-17 02:30:54 '
 header:
   og_image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_faster_silent_e15529-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_faster_silent_e15529-Illustration-1.webp

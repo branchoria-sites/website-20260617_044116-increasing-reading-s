@@ -267,6 +267,7 @@ next_link:
   short_title: Study limits
   heading_title: What the Baseball Study Did Not Prove
 date: '2026-06-17 04:14:37 '
+last_modified_at: '2026-06-17 04:14:37 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_baseball_know_bb161e-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_baseball_know_bb161e-Illustration-1.webp

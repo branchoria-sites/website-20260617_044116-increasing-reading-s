@@ -261,6 +261,7 @@ next_link:
   short_title: Corrections
   heading_title: When Faster Rereading Rehearses the Wrong Words
 date: '2026-06-17 00:48:59 '
+last_modified_at: '2026-06-17 00:48:59 '
 header:
   og_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-1.webp

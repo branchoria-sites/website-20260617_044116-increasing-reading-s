@@ -267,6 +267,7 @@ next_link:
   short_title: Scoring
   heading_title: How should you score a one sentence summary?
 date: '2026-06-17 00:23:48 '
+last_modified_at: '2026-06-17 00:23:48 '
 header:
   og_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_main_idea_sum_5694db-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_main_idea_sum_5694db-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Scanning vs Reading
   heading_title: Are You Reading Fast or Just Scanning?
 date: '2026-06-16 23:43:42 '
+last_modified_at: '2026-06-16 23:43:42 '
 header:
   og_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-1.webp

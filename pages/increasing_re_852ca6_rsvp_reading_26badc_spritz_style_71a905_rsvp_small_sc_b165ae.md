@@ -261,6 +261,7 @@ next_link:
   short_title: Speed Illusion
   heading_title: Why RSVP feels faster than it understands
 date: '2026-06-16 23:57:53 '
+last_modified_at: '2026-06-16 23:57:53 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_rsvp_small_sc_b165ae-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_rsvp_small_sc_b165ae-Illustration-1.webp

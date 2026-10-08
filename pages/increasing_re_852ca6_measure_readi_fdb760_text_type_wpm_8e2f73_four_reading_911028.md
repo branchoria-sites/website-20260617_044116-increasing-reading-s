@@ -267,6 +267,7 @@ next_link:
   short_title: Technical texts
   heading_title: Why technical reading should stay slower
 date: '2026-06-17 00:28:20 '
+last_modified_at: '2026-06-17 00:28:20 '
 header:
   og_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-1.webp

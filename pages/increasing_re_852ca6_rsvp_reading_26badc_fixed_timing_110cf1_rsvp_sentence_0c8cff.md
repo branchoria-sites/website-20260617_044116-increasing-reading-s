@@ -261,6 +261,7 @@ next_link:
   short_title: Hard Words
   heading_title: Why Hard Words Need Reading Time
 date: '2026-06-16 23:47:32 '
+last_modified_at: '2026-06-16 23:47:32 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_sentence_0c8cff-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_sentence_0c8cff-Illustration-1.webp

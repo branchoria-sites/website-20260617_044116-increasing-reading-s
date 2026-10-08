@@ -261,6 +261,7 @@ next_link:
   short_title: Skim or Study
   heading_title: When to Skim and When to Hear Words
 date: '2026-06-17 01:00:20 '
+last_modified_at: '2026-06-17 01:00:20 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_speech_946b33-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_speech_946b33-Illustration-1.webp

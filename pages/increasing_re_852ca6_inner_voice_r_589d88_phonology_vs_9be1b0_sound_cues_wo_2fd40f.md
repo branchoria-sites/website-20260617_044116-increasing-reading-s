@@ -267,6 +267,7 @@ next_link:
   short_title: Suppression
   heading_title: What Happens When Inner Speech Is Blocked?
 date: '2026-06-17 00:14:26 '
+last_modified_at: '2026-06-17 00:14:26 '
 header:
   og_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0_sound_cues_wo_2fd40f-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_phonology_vs_9be1b0_sound_cues_wo_2fd40f-Illustration-1.webp

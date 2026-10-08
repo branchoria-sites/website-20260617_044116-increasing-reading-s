@@ -267,6 +267,7 @@ next_link:
   short_title: Structure check
   heading_title: Can Structure Tell You When to Slow Down?
 date: '2026-06-17 01:45:37 '
+last_modified_at: '2026-06-17 01:45:37 '
 header:
   og_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_evidence_vs_k_93281c-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_evidence_vs_k_93281c-Illustration-1.webp

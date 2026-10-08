@@ -267,6 +267,7 @@ next_link:
   short_title: Work texts
   heading_title: Which work documents are worth rereading?
 date: '2026-06-17 03:13:32 '
+last_modified_at: '2026-06-17 03:13:32 '
 header:
   og_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_guided_repeat_8cc530-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_guided_repeat_8cc530-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Harder words
   heading_title: Why every flashed word starts colder
 date: '2026-06-16 23:50:34 '
+last_modified_at: '2026-06-16 23:50:34 '
 header:
   og_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_eye_movement_5e51f1-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_eye_movement_5e51f1-Illustration-1.webp

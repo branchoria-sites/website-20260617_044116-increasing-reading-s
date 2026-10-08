@@ -261,6 +261,7 @@ prev_link:
   short_title: Inference Checks
   heading_title: The questions that expose shallow fast reading
 date: '2026-06-17 02:02:41 '
+last_modified_at: '2026-06-17 02:02:41 '
 header:
   og_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_nonfiction_re_671c33-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_nonfiction_re_671c33-Illustration-1.webp

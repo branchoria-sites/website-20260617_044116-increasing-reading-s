@@ -267,6 +267,7 @@ next_link:
   short_title: Safe Workflow
   heading_title: How to Skim First Without Missing the Point
 date: '2026-06-17 01:24:37 '
+last_modified_at: '2026-06-17 01:24:37 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-1.webp

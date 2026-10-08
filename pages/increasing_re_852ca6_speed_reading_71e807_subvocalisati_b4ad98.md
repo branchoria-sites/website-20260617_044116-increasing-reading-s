@@ -280,6 +280,7 @@ next_link:
   short_title: Lookbacks
   heading_title: Why Looking Back Can Make Reading Better
 date: '2026-06-16 23:26:36 '
+last_modified_at: '2026-06-16 23:26:36 '
 header:
   og_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98-Illustration-1.webp

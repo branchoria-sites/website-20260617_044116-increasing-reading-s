@@ -261,6 +261,7 @@ next_link:
   short_title: Memory Load
   heading_title: Why chunks feel easier than word chains
 date: '2026-06-17 00:17:04 '
+last_modified_at: '2026-06-17 00:17:04 '
 header:
   og_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_phrase_readin_18a3d5-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_phrase_readin_18a3d5-Illustration-1.webp

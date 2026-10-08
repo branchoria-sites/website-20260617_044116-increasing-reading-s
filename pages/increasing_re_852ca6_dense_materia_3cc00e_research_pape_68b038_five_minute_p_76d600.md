@@ -261,6 +261,7 @@ prev_link:
   short_title: Less Rereading
   heading_title: Why starting cold makes papers feel slower
 date: '2026-06-17 01:21:29 '
+last_modified_at: '2026-06-17 01:21:29 '
 header:
   og_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038_five_minute_p_76d600-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_research_pape_68b038_five_minute_p_76d600-Illustration-1.webp

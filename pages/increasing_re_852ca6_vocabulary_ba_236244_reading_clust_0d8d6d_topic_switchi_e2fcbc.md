@@ -261,6 +261,7 @@ prev_link:
   short_title: Repeated Terms
   heading_title: How repeated terms unlock faster reading
 date: '2026-06-17 04:34:57 '
+last_modified_at: '2026-06-17 04:34:57 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_topic_switchi_e2fcbc-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d8d6d_topic_switchi_e2fcbc-Illustration-1.webp

@@ -267,6 +267,7 @@ next_link:
   short_title: Poetry rhythm
   heading_title: Why poems need a voice in your head
 date: '2026-06-17 01:57:04 '
+last_modified_at: '2026-06-17 01:57:04 '
 header:
   og_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_unfamiliar_co_ce314b-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_unfamiliar_co_ce314b-Illustration-1.webp

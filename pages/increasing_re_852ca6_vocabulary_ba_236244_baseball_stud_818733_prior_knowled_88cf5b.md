@@ -261,6 +261,7 @@ next_link:
   short_title: Knowledge boost
   heading_title: Why Knowing Baseball Changed the Reading Result
 date: '2026-06-17 04:20:12 '
+last_modified_at: '2026-06-17 04:20:12 '
 header:
   og_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b-Illustration-1.webp

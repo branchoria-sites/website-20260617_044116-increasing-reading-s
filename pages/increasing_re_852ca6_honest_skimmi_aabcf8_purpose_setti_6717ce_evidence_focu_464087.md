@@ -267,6 +267,7 @@ next_link:
   short_title: Skim Questions
   heading_title: Which Question Makes a Skim Actually Useful?
 date: '2026-06-17 01:38:41 '
+last_modified_at: '2026-06-17 01:38:41 '
 header:
   og_image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_evidence_focu_464087-Illustration-1-social.jpg
   preview_image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_evidence_focu_464087-Illustration-1.webp
