@@ -4,7 +4,7 @@ title_full: Best Uses Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-rsvp-reading/
+permalink: /increasing-re-852ca6-best-uses/
 description: Focused pages that expand on Best Uses.
 date: '2026'
 layout: default

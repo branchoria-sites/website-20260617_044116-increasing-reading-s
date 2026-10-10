@@ -4,7 +4,7 @@ title_full: Worth It Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-rereading-reg/
+permalink: /increasing-re-852ca6-worth-it/
 description: Focused pages that expand on Worth It.
 date: '2026'
 layout: default

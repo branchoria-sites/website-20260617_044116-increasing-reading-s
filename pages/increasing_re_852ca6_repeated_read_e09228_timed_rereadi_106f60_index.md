@@ -4,7 +4,7 @@ title_full: Timing Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-repeated-read/
+permalink: /increasing-re-852ca6-timing/
 description: Focused pages that expand on Timing.
 date: '2026'
 layout: default

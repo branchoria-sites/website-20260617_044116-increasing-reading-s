@@ -4,7 +4,7 @@ title_full: Fiction vs Fact Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-reading-speed/
+permalink: /increasing-re-852ca6-fiction-vs-fact/
 description: Focused pages that expand on Fiction vs Fact.
 date: '2026'
 layout: default

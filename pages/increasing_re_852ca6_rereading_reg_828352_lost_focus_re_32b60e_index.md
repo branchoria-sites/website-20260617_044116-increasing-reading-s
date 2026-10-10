@@ -4,7 +4,7 @@ title_full: Lost Focus Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-rereading-reg/
+permalink: /increasing-re-852ca6-lost-focus/
 description: Focused pages that expand on Lost Focus.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Text map Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-honest-skimmi/
+permalink: /increasing-re-852ca6-text-map/
 description: Focused pages that expand on Text map.
 date: '2026'
 layout: default

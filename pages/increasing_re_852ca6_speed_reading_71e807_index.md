@@ -4,7 +4,7 @@ title_full: Myths Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-speed-reading/
+permalink: /increasing-re-852ca6-myths/
 description: Focused pages that expand on Myths.
 date: '2026'
 layout: default

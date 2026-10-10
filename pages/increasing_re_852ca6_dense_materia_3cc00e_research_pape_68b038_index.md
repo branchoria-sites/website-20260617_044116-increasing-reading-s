@@ -4,7 +4,7 @@ title_full: Paper Preview Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-dense-materia/
+permalink: /increasing-re-852ca6-paper-preview/
 description: Focused pages that expand on Paper Preview.
 date: '2026'
 layout: default

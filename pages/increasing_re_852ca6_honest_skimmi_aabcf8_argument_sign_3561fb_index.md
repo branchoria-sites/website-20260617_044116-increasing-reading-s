@@ -4,7 +4,7 @@ title_full: Signal words Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-honest-skimmi/
+permalink: /increasing-re-852ca6-signal-words/
 description: Focused pages that expand on Signal words.
 date: '2026'
 layout: default

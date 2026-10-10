@@ -4,7 +4,7 @@ title_full: Lookbacks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-speed-reading/
+permalink: /increasing-re-852ca6-lookbacks/
 description: Focused pages that expand on Lookbacks.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: Expertise Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-dense-materia/
+permalink: /increasing-re-852ca6-expertise/
 description: Focused pages that expand on Expertise.
 date: '2026'
 layout: default
