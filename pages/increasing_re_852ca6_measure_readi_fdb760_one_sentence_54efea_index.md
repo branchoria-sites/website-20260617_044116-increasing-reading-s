@@ -4,7 +4,7 @@ title_full: One Sentence Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-measure-readi/
+permalink: /increasing-re-852ca6-one-sentence/
 description: Focused pages that expand on One Sentence.
 date: '2026'
 layout: default

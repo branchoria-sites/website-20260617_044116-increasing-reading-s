@@ -4,7 +4,7 @@ title_full: Skim risks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-speed-reading/
+permalink: /increasing-re-852ca6-skim-risks/
 description: Focused pages that expand on Skim risks.
 date: '2026'
 layout: default

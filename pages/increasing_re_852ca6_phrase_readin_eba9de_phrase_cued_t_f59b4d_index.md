@@ -4,7 +4,7 @@ title_full: Cued Text Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-phrase-readin/
+permalink: /increasing-re-852ca6-cued-text/
 description: Focused pages that expand on Cued Text.
 date: '2026'
 layout: default

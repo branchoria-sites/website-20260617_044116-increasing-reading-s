@@ -4,7 +4,7 @@ title_full: Fixed Pacing Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-rsvp-reading/
+permalink: /increasing-re-852ca6-fixed-pacing/
 description: Focused pages that expand on Fixed Pacing.
 date: '2026'
 layout: default

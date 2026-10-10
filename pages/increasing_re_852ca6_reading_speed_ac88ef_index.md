@@ -4,7 +4,7 @@ title_full: Benchmarks Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-reading-speed/
+permalink: /increasing-re-852ca6-benchmarks/
 description: Focused pages that expand on Benchmarks.
 date: '2026'
 layout: default

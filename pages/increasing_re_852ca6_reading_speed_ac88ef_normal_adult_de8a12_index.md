@@ -4,7 +4,7 @@ title_full: WPM Ranges Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-reading-speed/
+permalink: /increasing-re-852ca6-wpm-ranges/
 description: Focused pages that expand on WPM Ranges.
 date: '2026'
 layout: default

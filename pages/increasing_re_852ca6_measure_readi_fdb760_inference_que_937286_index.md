@@ -4,7 +4,7 @@ title_full: Inference Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-measure-readi/
+permalink: /increasing-re-852ca6-inference/
 description: Focused pages that expand on Inference.
 date: '2026'
 layout: default

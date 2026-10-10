@@ -4,7 +4,7 @@ title_full: Practice Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /increasing-re-852ca6-repeated-read/
+permalink: /increasing-re-852ca6-practice/
 description: Focused pages that expand on Practice.
 date: '2026'
 layout: default
