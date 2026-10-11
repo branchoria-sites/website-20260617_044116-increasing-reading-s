@@ -900,7 +900,6 @@ The evidence does not support magical leaps in full-comprehension reading speed.
 
 35.<a id="endnote-35"></a>
    Source: play.google.com  
-   Link:https://play.google.com/store/apps/details?hl=en&amp;id=com.revolvotech.fovea  
 
 36.<a id="endnote-36"></a>
    Source: users.ugent.be  
