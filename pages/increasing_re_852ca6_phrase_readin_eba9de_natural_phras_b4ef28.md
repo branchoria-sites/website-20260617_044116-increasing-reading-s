@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /increasing/
 - /phrases/
 nav_short_title: Phrase Breaks
-title: Where should a sentence naturally pause?
+title: "Where should a sentence naturally pause? (Read Phrases, Not Just Words)"
 title_full: Where should a sentence naturally pause?
 display_title_short: Phrase Breaks
 display_title: Phrase Breaks

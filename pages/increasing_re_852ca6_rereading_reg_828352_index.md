@@ -1,11 +1,11 @@
 ---
-title: Rereading Sub-Topic Index
+title: "Rereading Sub-Topic Index (c42398)"
 title_full: Rereading Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-rereading-c42398/
-description: Focused pages that expand on Rereading.
+description: "Focused pages that expand on Rereading (c42398)."
 date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_rereading_reg_828352

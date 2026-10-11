@@ -1,11 +1,11 @@
 ---
-title: Rereading Sub-Topic Index
+title: "Rereading Sub-Topic Index (/increasing-re-852ca6-rereading/)"
 title_full: Rereading Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-rereading/
-description: Focused pages that expand on Rereading.
+description: "Focused pages that expand on Rereading (/increasing-re-852ca6-rereading/)."
 date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c
