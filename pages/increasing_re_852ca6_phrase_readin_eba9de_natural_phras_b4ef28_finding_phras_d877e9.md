@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /phrases/
 - /phrase-breaks/
 nav_short_title: Find Breaks
-title: Where should a sentence naturally pause?
+title: "Where should a sentence naturally pause? (Where should a sentence naturally pause?)"
 title_full: Where should a sentence naturally pause?
 display_title_short: Find Breaks
 display_title: Find Breaks
